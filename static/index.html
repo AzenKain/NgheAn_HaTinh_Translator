@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ASR & Dịch Thuật Phương Ngữ Nghệ An - Hà Tĩnh</title>
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&family=Plus+Jakarta+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <!-- FontAwesome for Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Main CSS -->
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <div class="glass-bg"></div>
+    <div class="app-container">
+        <!-- Header -->
+        <header>
+            <div class="logo">
+                <i class="fa-solid fa-microphone-lines logo-icon"></i>
+                <div class="logo-text">
+                    <h1>Mạ & Rọt</h1>
+                    <p>ASR & Dịch Phương Ngữ Nghệ Tĩnh</p>
+                </div>
+            </div>
+            <div class="header-controls">
+                <div class="model-select-wrapper">
+                    <label for="asr-model-select"><i class="fa-solid fa-brain"></i> Mô hình ASR:</label>
+                    <select id="asr-model-select" class="custom-select">
+                        <option value="whisper-lora-nghe-tinh">Whisper LoRA (Nghe Tĩnh)</option>
+                        <option value="whisper-dora-nghe-tinh">Whisper DoRA (Nghe Tĩnh)</option>
+                    </select>
+                </div>
+                <div class="api-status">
+                    <span class="status-indicator online"></span>
+                    <span class="status-text">Local Server</span>
+                </div>
+            </div>
+        </header>
+
+        <!-- Main Workspace -->
+        <main class="workspace">
+            <!-- Left Panel: Input & ASR -->
+            <section class="panel panel-left">
+                <div class="panel-header">
+                    <h2><i class="fa-solid fa-volume-high"></i> Đầu vào âm thanh & Nhận diện</h2>
+                    <span class="panel-subtitle">Thu âm trực tiếp hoặc tải file lên</span>
+                </div>
+                
+                <div class="panel-body">
+                    <!-- Audio Input Area -->
+                    <div class="audio-input-container">
+                        <div class="tab-control">
+                            <button class="tab-btn active" id="tab-record-btn"><i class="fa-solid fa-microphone"></i> Thu âm</button>
+                            <button class="tab-btn" id="tab-upload-btn"><i class="fa-solid fa-file-audio"></i> Tải file</button>
+                        </div>
+
+                        <!-- Record Mode -->
+                        <div class="tab-content" id="record-content">
+                            <div class="recorder-box">
+                                <div class="visualizer-container">
+                                    <canvas id="visualizer"></canvas>
+                                    <div class="timer" id="record-timer">00:00</div>
+                                </div>
+                                
+                                <div class="recorder-controls">
+                                    <button class="record-trigger" id="record-btn" title="Bắt đầu ghi âm">
+                                        <div class="record-pulse"></div>
+                                        <i class="fa-solid fa-microphone mic-icon"></i>
+                                    </button>
+                                    <p class="record-status-text" id="record-status">Sẵn sàng thu âm</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Upload Mode -->
+                        <div class="tab-content hidden" id="upload-content">
+                            <div class="upload-box" id="dropzone">
+                                <i class="fa-solid fa-cloud-arrow-up upload-icon"></i>
+                                <p>Kéo thả file âm thanh vào đây hoặc</p>
+                                <button class="btn btn-secondary mt-2" id="browse-btn">Chọn file</button>
+                                <input type="file" id="file-input" accept="audio/*" class="hidden">
+                                <p class="file-info mt-2 hidden" id="file-info-text"></p>
+                                <p class="upload-tip">Hỗ trợ .mp3, .wav, .m4a, .ogg (Tối đa 10MB)</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- ASR Transcript Output -->
+                    <div class="transcript-container mt-4">
+                        <div class="output-header">
+                            <h3><i class="fa-solid fa-file-text"></i> Kết quả nhận diện (Tiếng Nghệ Tĩnh)</h3>
+                            <div class="output-actions">
+                                <button class="action-btn" id="copy-asr-btn" title="Sao chép văn bản gốc"><i class="fa-regular fa-copy"></i></button>
+                            </div>
+                        </div>
+                        <textarea id="asr-output" placeholder="Văn bản nhận diện giọng nói sẽ xuất hiện ở đây... Bạn cũng có thể tự gõ văn bản vào đây để dịch." class="text-area-output"></textarea>
+                    </div>
+
+                    <div class="action-trigger-container">
+                        <button class="btn btn-primary btn-block" id="translate-btn" disabled>
+                            <span>Dịch sang Tiếng Phổ Thông</span> <i class="fa-solid fa-arrow-right"></i>
+                        </button>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Right Panel: Translation & RAG Dictionary -->
+            <section class="panel panel-right">
+                <div class="panel-header">
+                    <h2><i class="fa-solid fa-language"></i> Bản dịch tiếng Việt Phổ thông</h2>
+                    <span class="panel-subtitle">Dịch thuật ngữ cảnh bằng RAG + LLM DeepSeek</span>
+                </div>
+
+                <div class="panel-body flex-column">
+                    <!-- Translation Output -->
+                    <div class="translation-container flex-grow">
+                        <div class="output-header">
+                            <h3><i class="fa-solid fa-sparkles"></i> Kết quả dịch</h3>
+                            <div class="output-actions">
+                                <button class="action-btn" id="copy-trans-btn" title="Sao chép bản dịch"><i class="fa-regular fa-copy"></i></button>
+                            </div>
+                        </div>
+                        <div id="translation-output" class="translation-output-box">
+                            <span class="placeholder-text">Chưa có bản dịch. Nhấn "Dịch sang Tiếng Phổ Thông" hoặc nhập văn bản bên trái.</span>
+                        </div>
+                    </div>
+
+                    <!-- RAG Mapped Dictionary Terms -->
+                    <div class="rag-dictionary-container mt-4">
+                        <div class="dictionary-header">
+                            <h3><i class="fa-solid fa-book-bookmark"></i> Từ điển ngữ cảnh (RAG Mapped)</h3>
+                            <span class="dictionary-badge" id="terms-count">0 từ</span>
+                        </div>
+                        <div class="dictionary-body" id="dictionary-terms-list">
+                            <div class="empty-dictionary">
+                                <i class="fa-solid fa-book-open"></i>
+                                <p>Các phương ngữ khớp trong từ điển sẽ hiển thị ở đây để đối chiếu nghĩa.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </main>
+        
+        <!-- Footer -->
+        <footer>
+            <p>Phát triển cho mục tiêu dịch phương ngữ địa phương Việt Nam. Chạy offline & API local.</p>
+            <p class="copyright">&copy; 2026 NA_HT_Whisper Project</p>
+        </footer>
+    </div>
+
+    <!-- Processing Overlay Modal -->
+    <div class="modal-overlay hidden" id="loading-overlay">
+        <div class="glass-modal">
+            <div class="loader-spinner">
+                <div class="spinner-ring"></div>
+                <i class="fa-solid fa-brain loader-icon pulse-animation"></i>
+            </div>
+            <h3 id="overlay-title">Đang xử lý...</h3>
+            <p id="overlay-subtitle">Vui lòng chờ trong giây lát.</p>
+        </div>
+    </div>
+    
+    <script src="index.js"></script>
+</body>
+</html>

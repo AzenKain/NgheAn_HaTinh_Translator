@@ -1,0 +1,6879 @@
+[
+  {
+    "id": "na_001",
+    "keyword": "trốốc cúi",
+    "aliases": [
+      "chốc cúi",
+      "trốc cúi",
+      "tróc cúi",
+      "chốc củi",
+      "trốc gúi",
+      "trục cúi",
+      "trốc gối"
+    ],
+    "meaning": "đầu gối",
+    "example": "té trầy trốốc cúi",
+    "example_translate": "té trầy đầu gối",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_002",
+    "keyword": "nỏ chộ",
+    "aliases": [
+      "nỏ chốc",
+      "no chộ",
+      "nỏ trộ"
+    ],
+    "meaning": "không thấy",
+    "example": "bữa ni tau nỏ chộ mi",
+    "example_translate": "hôm nay tôi không thấy bạn",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_003",
+    "keyword": "tau",
+    "aliases": [
+      "tui"
+    ],
+    "meaning": "tao, tôi",
+    "example": "mốt tau mới về",
+    "example_translate": "ngày kia tôi mới về",
+    "standard_aliases": [
+      "tao"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_004",
+    "keyword": "mi",
+    "aliases": [
+      "mì"
+    ],
+    "meaning": "mày",
+    "example": "mi đi mô đó",
+    "example_translate": "mày đi đâu đấy",
+    "standard_aliases": [
+      "mày"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_005",
+    "keyword": "hấn",
+    "aliases": [
+      "hân"
+    ],
+    "meaning": "nó, hắn, y",
+    "example": "hấn nỏ mần chi cả",
+    "example_translate": "nó không làm gì cả",
+    "standard_aliases": [
+      "hắn"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_006",
+    "keyword": "choa",
+    "aliases": [
+      "bọn choa",
+      "chúng choa",
+      "trớt choa"
+    ],
+    "meaning": "chúng tao, bọn tao, chúng tôi",
+    "example": "Hà Tĩnh choa miền trung lắm gió",
+    "example_translate": "Hà Tĩnh chúng tôi miền trung lắm gió",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_007",
+    "keyword": "bây",
+    "aliases": [
+      "bay",
+      "tụi bây",
+      "các bây"
+    ],
+    "meaning": "các bạn, tụi mày",
+    "example": "có nói thì bây mới biết",
+    "example_translate": "có nói thì các bạn mới biết",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_008",
+    "keyword": "nớ",
+    "aliases": [],
+    "meaning": "đó, ấy",
+    "example": "hồi nớ tui còn nhỏ",
+    "example_translate": "hồi đó tôi còn nhỏ",
+    "standard_aliases": [
+      "đó",
+      "ấy",
+      "đấy"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_009",
+    "keyword": "rứa",
+    "aliases": [
+      "như rứa",
+      "rứa nà",
+      "rứa à"
+    ],
+    "meaning": "thế, như vậy, thật àm, vậy à",
+    "example": "răng mi nỏ mần rứa",
+    "example_translate": "sao mày không làm thế",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_010",
+    "keyword": "mô",
+    "aliases": [
+      "mồ"
+    ],
+    "meaning": "đâu, nào",
+    "example": "đứa mô chưa ghé một lần",
+    "example_translate": "đứa nào chưa ghé một lần",
+    "standard_aliases": [
+      "đâu"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_011",
+    "keyword": "ni",
+    "aliases": [],
+    "meaning": "này",
+    "example": "lộ ni su lắm",
+    "example_translate": "lỗ này sâu lắm",
+    "standard_aliases": [
+      "này"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_012",
+    "keyword": "tê",
+    "aliases": [
+      "tề"
+    ],
+    "meaning": "kia",
+    "example": "đứng ở góc tê chờ tau",
+    "example_translate": "đứng ở góc kia chờ tôi",
+    "standard_aliases": [
+      "kia",
+      "kìa"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_013",
+    "keyword": "răng",
+    "aliases": [
+      "mần răng"
+    ],
+    "meaning": "sao, làm sao",
+    "example": "răng bựa ni trời mát ri",
+    "example_translate": "sao bữa nay trời mát thế",
+    "standard_aliases": [
+      "sao",
+      "thế nào",
+      "làm sao"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_014",
+    "keyword": "hỉ",
+    "aliases": [
+      "hẻ",
+      "hẹ"
+    ],
+    "meaning": "nhé (dùng kết thúc câu)",
+    "example": "tí đi nhởi hỉ",
+    "example_translate": "tí đi chơi nhé",
+    "standard_aliases": [
+      "nhé"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_015",
+    "keyword": "chơ",
+    "aliases": [
+      "chứ",
+      "cơ",
+      "chư"
+    ],
+    "meaning": "chứ",
+    "example": "mần a ri nầy mới đúng chơ",
+    "example_translate": "làm thế này mới đúng chứ",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_016",
+    "keyword": "chi",
+    "aliases": [],
+    "meaning": "gì, gì vậy",
+    "example": "thích chi thì bảo là sèm",
+    "example_translate": "thích gì thì bảo là thèm",
+    "standard_aliases": [
+      "gì",
+      "cái gì"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_017",
+    "keyword": "mần",
+    "aliases": [
+      "màn"
+    ],
+    "meaning": "làm",
+    "example": "cha mệ cháu đi mần rọong rồi ạ",
+    "example_translate": "cha mẹ cháu đi làm ruộng rồi ạ",
+    "standard_aliases": [
+      "làm"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_018",
+    "keyword": "dừ",
+    "aliases": [
+      "bây giờ",
+      "giờ",
+      "hiện tại"
+    ],
+    "meaning": "bây giờ",
+    "example": "dừ tau đít lác rồi mần răng",
+    "example_translate": "bây giờ tôi đói rồi làm sao đây",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_019",
+    "keyword": "ngó",
+    "aliases": [
+      "ngó chừng"
+    ],
+    "meaning": "nhìn",
+    "example": "tau ngó mà nỏ chộ chi hết",
+    "example_translate": "tôi nhìn mà không thấy gì hết",
+    "standard_aliases": [
+      "nhìn"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_020",
+    "keyword": "ăng",
+    "aliases": [],
+    "meaning": "ăn",
+    "example": "mời bây ăng cơm",
+    "example_translate": "mời các bạn ăn cơm",
+    "standard_aliases": [
+      "ăn"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_021",
+    "keyword": "chộ",
+    "aliases": [],
+    "meaning": "thấy",
+    "example": "chộ tức là thấy em ơi",
+    "example_translate": "thấy tức là thấy em ơi",
+    "standard_aliases": [
+      "thấy"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_022",
+    "keyword": "bổ",
+    "aliases": [
+      "xòe"
+    ],
+    "meaning": "ngã, té",
+    "example": "hấn bị bổ xe",
+    "example_translate": "nó bị ngã xe",
+    "standard_aliases": [
+      "ngã",
+      "té"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_023",
+    "keyword": "quèng",
+    "aliases": [
+      "rẹ",
+      "quay"
+    ],
+    "meaning": "rẽ, quẹo",
+    "example": "quèng trái ở đây",
+    "example_translate": "rẽ trái ở đây",
+    "standard_aliases": [
+      "quẹo",
+      "rẽ"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_024",
+    "keyword": "vả",
+    "aliases": [
+      "táng",
+      "đập"
+    ],
+    "meaning": "tát",
+    "example": "tau vả cho mi cấy",
+    "example_translate": "tôi tát cho mày cái",
+    "standard_aliases": [
+      "tát"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_025",
+    "keyword": "ci",
+    "aliases": [
+      "cấy"
+    ],
+    "meaning": "cái",
+    "example": "đóng ci cựa lại",
+    "example_translate": "đóng cái cựa lại",
+    "standard_aliases": [
+      "cái"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_026",
+    "keyword": "cò lẹ",
+    "aliases": [
+      "có lẹ"
+    ],
+    "meaning": "có lẽ",
+    "example": "cò lẹ hấn không đến",
+    "example_translate": "có lẽ nó không đến",
+    "standard_aliases": [
+      "có lẽ"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_027",
+    "keyword": "đít lác",
+    "aliases": [
+      "đói tiền",
+      "viêm màng túi"
+    ],
+    "meaning": "đói tiền, hết tiền",
+    "example": "dừ tau đít lác rồi",
+    "example_translate": "bây giờ tôi hết tiền rồi",
+    "standard_aliases": [
+      "hết tiền"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_028",
+    "keyword": "lè",
+    "aliases": [
+      "lắc lè"
+    ],
+    "meaning": "đùi, bắp chân",
+    "example": "lè tau đau quá",
+    "example_translate": "đùi tôi đau quá",
+    "standard_aliases": [
+      "đùi",
+      "bắp chân"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_029",
+    "keyword": "ót",
+    "aliases": [
+      "chót"
+    ],
+    "meaning": "gáy",
+    "example": "ót tau đau quá",
+    "example_translate": "gáy tôi đau quá",
+    "standard_aliases": [
+      "gáy"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_030",
+    "keyword": "kẹt xỉ",
+    "aliases": [],
+    "meaning": "keo kiệt, bủn xỉn",
+    "example": "thằng nớ kẹt xỉ lắm",
+    "example_translate": "thằng đó keo kiệt lắm",
+    "standard_aliases": [
+      "keo kiệt",
+      "bủn xỉn",
+      "ki bo"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_031",
+    "keyword": "tẹo",
+    "aliases": [
+      "tị"
+    ],
+    "meaning": "chút xíu, lát nữa",
+    "example": "đợi tau tẹo, nỏ vội",
+    "example_translate": "đợi tôi chút nữa, không vội",
+    "standard_aliases": [
+      "tí",
+      "chút xíu",
+      "lát nữa"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_032",
+    "keyword": "sinh gớm",
+    "aliases": [
+      "gớm ghiếc"
+    ],
+    "meaning": "kinh tởm",
+    "example": "món ăn ni sinh gớm",
+    "example_translate": "món ăn này kinh tởm",
+    "standard_aliases": [
+      "kinh tởm"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_033",
+    "keyword": "cả bầy",
+    "aliases": [],
+    "meaning": "cả lũ, cả đám",
+    "example": "bây đi nhởi cả bầy rứa",
+    "example_translate": "các bạn đi chơi cả lũ thế",
+    "standard_aliases": [
+      "cả lũ",
+      "cả đám"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_034",
+    "keyword": "cảy",
+    "aliases": [
+      "u lên"
+    ],
+    "meaning": "sưng",
+    "example": "té bổ cảy cả trốc",
+    "example_translate": "té bổ sưng cả đầu",
+    "standard_aliases": [
+      "sưng"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_035",
+    "keyword": "rầy",
+    "aliases": [],
+    "meaning": "ngại ngùng, xấu hổ",
+    "example": "còn từ ni nữa nói nghe cùng rầy",
+    "example_translate": "còn từ này nữa nói nghe cùng ngại",
+    "standard_aliases": [
+      "xấu hổ",
+      "ngượng",
+      "ngại ngùng"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_036",
+    "keyword": "đại",
+    "aliases": [
+      "fết",
+      "bừa"
+    ],
+    "meaning": "khá, bừa",
+    "example": "fim ni cụng hay đại",
+    "example_translate": "phim này cũng hay phết",
+    "standard_aliases": [
+      "phết",
+      "khá"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_037",
+    "keyword": "ba láp",
+    "aliases": [],
+    "meaning": "bốc phét, nói dối",
+    "example": "mi đừng có ba hoa ba láp",
+    "example_translate": "mày đừng có bốc phét nói dối",
+    "standard_aliases": [
+      "bốc phét",
+      "nói dối"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_038",
+    "keyword": "đèo",
+    "aliases": [],
+    "meaning": "chở",
+    "example": "đèo tau đi chợ với",
+    "example_translate": "chở tôi đi chợ với",
+    "standard_aliases": [
+      "chở"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_039",
+    "keyword": "rèo",
+    "aliases": [],
+    "meaning": "nài nỉ",
+    "example": "mi đừng có rèo tau nữa",
+    "example_translate": "mày đừng có nài nỉ tôi nữa",
+    "standard_aliases": [
+      "nài nỉ"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_040",
+    "keyword": "dằm",
+    "aliases": [
+      "chỗ",
+      "giữ dằm"
+    ],
+    "meaning": "chỗ ngồi",
+    "example": "giự dằm cho tau đi ăng",
+    "example_translate": "giữ chỗ cho tôi đi ăn",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_041",
+    "keyword": "nậy",
+    "aliases": [],
+    "meaning": "lớn",
+    "example": "người mi nậy hầy",
+    "example_translate": "người bạn lớn thế",
+    "standard_aliases": [
+      "to",
+      "lớn",
+      "bự"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_042",
+    "keyword": "tọng",
+    "aliases": [],
+    "meaning": "nhét",
+    "example": "tọng chai lọ vô bị",
+    "example_translate": "nhét chai lọ vào túi",
+    "standard_aliases": [
+      "nhét",
+      "đút"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_043",
+    "keyword": "bựt",
+    "aliases": [],
+    "meaning": "bật",
+    "example": "bựt lửa đi cho sáng",
+    "example_translate": "bật lửa đi cho sáng",
+    "standard_aliases": [
+      "bật"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_044",
+    "keyword": "rọt",
+    "aliases": [],
+    "meaning": "ruột",
+    "example": "đau đứt từng khúc rọt",
+    "example_translate": "đau đứt từng khúc ruột",
+    "standard_aliases": [
+      "ruột"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_045",
+    "keyword": "trốc tru",
+    "aliases": [
+      "đầu trâu"
+    ],
+    "meaning": "ngu ngốc, bướng bỉnh",
+    "example": "rứa mà mi cũng không hiểu, trốc tru chi lạ ri hả",
+    "example_translate": "thế mà mày cũng không hiểu, ngu ngốc gì lạ vậy hả",
+    "standard_aliases": [
+      "ngu ngốc",
+      "bướng bỉnh"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_046",
+    "keyword": "giựt thột",
+    "aliases": [],
+    "meaning": "giật mình",
+    "example": "tau đang đi thì giựt thột",
+    "example_translate": "tôi đang đi thì giật mình",
+    "standard_aliases": [
+      "giật mình"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_047",
+    "keyword": "ngài",
+    "aliases": [
+      "con ngài"
+    ],
+    "meaning": "con người",
+    "example": "lỡ yêu ngài ở đất quê choa",
+    "example_translate": "lỡ yêu người ở đất quê chúng tôi",
+    "standard_aliases": [
+      "người"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_048",
+    "keyword": "mệ",
+    "aliases": [],
+    "meaning": "mẹ",
+    "example": "cha mệ cháu đi mần rọng rồi ạ",
+    "example_translate": "cha mẹ cháu đi làm ruộng rồi ạ",
+    "standard_aliases": [
+      "mẹ",
+      "má"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_049",
+    "keyword": "o",
+    "aliases": [
+      "ả",
+      "em của bố"
+    ],
+    "meaning": "cô, em của bố",
+    "example": "bà o đạ nhốt con ga trong chuồng",
+    "example_translate": "bà cô đã nhốt con gà trong chuồng",
+    "standard_aliases": [
+      "cô"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_050",
+    "keyword": "dì",
+    "aliases": [
+      "em của mẹ"
+    ],
+    "meaning": "dì, em của mẹ",
+    "example": "dì sang nhà choa nhởi",
+    "example_translate": "dì sang nhà chúng tôi chơi",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_051",
+    "keyword": "đọi",
+    "aliases": [],
+    "meaning": "bát",
+    "example": "đem đọi ra ăn",
+    "example_translate": "mang bát ra ăn",
+    "standard_aliases": [
+      "bát",
+      "tô"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_052",
+    "keyword": "nác",
+    "aliases": [
+      "nác chè"
+    ],
+    "meaning": "nước uống",
+    "example": "nac ở đây sẹch lắm",
+    "example_translate": "nước ở đây sạch lắm",
+    "standard_aliases": [
+      "nước",
+      "nước uống"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_053",
+    "keyword": "môi",
+    "aliases": [],
+    "meaning": "muôi chan canh",
+    "example": "lấy cái môi múc nác",
+    "example_translate": "lấy cái muôi múc nước",
+    "standard_aliases": [
+      "muôi",
+      "giá"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_054",
+    "keyword": "bồ đài",
+    "aliases": [
+      "cái đài",
+      "gầu",
+      "đài",
+      "cấy đài",
+      "cấy vàu",
+      "vàu"
+    ],
+    "meaning": "gàu múc nước",
+    "example": "cấy bồ đài múc nác",
+    "example_translate": "cấy cái gàu múc nước",
+    "standard_aliases": [
+      "gàu"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_055",
+    "keyword": "cươi",
+    "aliases": [],
+    "meaning": "sân",
+    "example": "ra cươi lấy cấy chủi",
+    "example_translate": "ra sân lấy cái chổi",
+    "standard_aliases": [
+      "sân"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_056",
+    "keyword": "nương",
+    "aliases": [],
+    "meaning": "vườn",
+    "example": "ra nương hái rau về loọc",
+    "example_translate": "ra vườn hái rau về luộc",
+    "standard_aliases": [
+      "vườn"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_057",
+    "keyword": "rọong",
+    "aliases": [
+      "roọng"
+    ],
+    "meaning": "ruộng",
+    "example": "đi mần rọong từ sáng sớm",
+    "example_translate": "đi làm ruộng từ sáng sớm",
+    "standard_aliases": [
+      "ruộng",
+      "đồng"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_058",
+    "keyword": "cơn",
+    "aliases": [],
+    "meaning": "cây",
+    "example": "trèo lên cơn ổi hái quả",
+    "example_translate": "trèo lên cây ổi hái quả",
+    "standard_aliases": [
+      "cây"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_059",
+    "keyword": "chủi",
+    "aliases": [],
+    "meaning": "chổi",
+    "example": "lấy cái chủi quét cươi",
+    "example_translate": "lấy cái chổi quét sân",
+    "standard_aliases": [
+      "chổi"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_060",
+    "keyword": "mấn",
+    "aliases": [],
+    "meaning": "váy",
+    "example": "mấn để mặc đi nhởi",
+    "example_translate": "váy để mặc đi chơi",
+    "standard_aliases": [
+      "váy"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_061",
+    "keyword": "ngọ nguậy",
+    "aliases": [
+      "đũa bếp",
+      "đũa cả"
+    ],
+    "meaning": "đũa bếp",
+    "example": "ngọ nguậy là cái đũa bếp",
+    "example_translate": "",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_062",
+    "keyword": "giáp đít",
+    "aliases": [
+      "sát đít",
+      "ngay đít",
+      "rế nồi",
+      "cái rế nồi"
+    ],
+    "meaning": "sát đít, ngay đít; rế nồi/cái kê nồi tùy ngữ cảnh",
+    "example": "giáp đít rồi mà chưa chộ mô",
+    "example_translate": "ngay đít rồi mà chưa thấy đâu",
+    "source_quality": "community/needs_review",
+    "note": "Từ/cụm này có thể đa nghĩa, nên ưu tiên dịch theo ngữ cảnh câu."
+  },
+  {
+    "id": "na_063",
+    "keyword": "mươn",
+    "aliases": [
+      "bàn",
+      "cái bàn"
+    ],
+    "meaning": "bàn",
+    "example": "để đồ lên cái mươn",
+    "example_translate": "",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_064",
+    "keyword": "đùm",
+    "aliases": [
+      "gói"
+    ],
+    "meaning": "gói",
+    "example": "đùm kẹo ni ngon đại",
+    "example_translate": "gói kẹo này ngon phết",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_065",
+    "keyword": "ló",
+    "aliases": [],
+    "meaning": "thóc",
+    "example": "phơi ló ngoài cươi cho khô",
+    "example_translate": "phơi thóc ngoài sân cho khô",
+    "standard_aliases": [
+      "thóc",
+      "lúa"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_066",
+    "keyword": "ruốc",
+    "aliases": [],
+    "meaning": "mắm tôm",
+    "example": "ruốc để chấm rau luộc",
+    "example_translate": "mắm tôm để chấm rau luộc",
+    "standard_aliases": [
+      "mắm tôm"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_067",
+    "keyword": "nhút",
+    "aliases": [
+      "nhút mít",
+      "món nhút"
+    ],
+    "meaning": "món xơ mít muối (đặc sản Thanh Chương)",
+    "example": "với Thanh Chương, nhút mặn chua cà",
+    "example_translate": "với Thanh Chương, món xơ mít muối mặn chua cả",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_068",
+    "keyword": "tru",
+    "aliases": [
+      "cân tru"
+    ],
+    "meaning": "con trâu",
+    "example": "con tru ni nậy",
+    "example_translate": "con trâu này lớn",
+    "standard_aliases": [
+      "trâu",
+      "con trâu"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_069",
+    "keyword": "trùn",
+    "aliases": [],
+    "meaning": "con giun",
+    "example": "con trùn ni to lắm",
+    "example_translate": "con giun này to lắm",
+    "standard_aliases": [
+      "giun",
+      "con giun"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_070",
+    "keyword": "ga",
+    "aliases": [
+      "con ga",
+      "cân ga"
+    ],
+    "meaning": "con gà",
+    "example": "con ga này béo",
+    "example_translate": "con gà này béo",
+    "standard_aliases": [
+      "gà",
+      "con gà"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_071",
+    "keyword": "cá tràu",
+    "aliases": [],
+    "meaning": "cá quả, cá lóc; cũng dùng để chỉ người bướng bỉnh/láu cá",
+    "example": "cá tràu con to thật",
+    "example_translate": "cá lóc con to thật",
+    "standard_aliases": [
+      "cá quả",
+      "cá lóc"
+    ],
+    "source_quality": "community/needs_review",
+    "note": "Từ/cụm này có thể đa nghĩa, nên ưu tiên dịch theo ngữ cảnh câu."
+  },
+  {
+    "id": "na_072",
+    "keyword": "ròi",
+    "aliases": [
+      "con ròi"
+    ],
+    "meaning": "con ruồi",
+    "example": "con ròi này bâu",
+    "example_translate": "con ruồi này bâu",
+    "standard_aliases": [
+      "ruồi",
+      "con ruồi"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_073",
+    "keyword": "me",
+    "aliases": [
+      "cân me"
+    ],
+    "meaning": "con bê",
+    "example": "me ni nậy",
+    "example_translate": "con bê này lớn",
+    "standard_aliases": [
+      "bê",
+      "con bê"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_074",
+    "keyword": "mọi",
+    "aliases": [
+      "con mọi"
+    ],
+    "meaning": "con muỗi",
+    "example": "con mọi là muỗi khi nghe đừng cười",
+    "example_translate": "con muỗi là muỗi khi nghe đừng cười",
+    "standard_aliases": [
+      "muỗi",
+      "con muỗi"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_075",
+    "keyword": "khái",
+    "aliases": [
+      "con hổ",
+      "con khái",
+      "cân khái"
+    ],
+    "meaning": "con hổ",
+    "example": "khái cạp",
+    "example_translate": "con hổ cạp",
+    "standard_aliases": [
+      "hổ",
+      "cọp"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_076",
+    "keyword": "trốoc",
+    "aliases": [
+      "cái đầu",
+      "trôốc",
+      "trốc",
+      "trốc cha"
+    ],
+    "meaning": "đầu",
+    "example": "trốoc nhiều gàu",
+    "example_translate": "đầu nhiều gàu",
+    "standard_aliases": [
+      "đầu"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_077",
+    "keyword": "cộoc",
+    "aliases": [
+      "gốc rễ",
+      "cộc",
+      "côộc"
+    ],
+    "meaning": "gốc, gốc cây",
+    "example": "vấp phải cộoc cơn té bổ",
+    "example_translate": "vấp phải gốc cây té ngã",
+    "standard_aliases": [
+      "gốc",
+      "gốc cây"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_078",
+    "keyword": "nhởi",
+    "aliases": [
+      "đi nhởi"
+    ],
+    "meaning": "chơi",
+    "example": "khi mô sang nhởi nhà choa",
+    "example_translate": "khi nào sang chơi nhà chúng tôi",
+    "standard_aliases": [
+      "chơi"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_079",
+    "keyword": "trụng",
+    "aliases": [],
+    "meaning": "nhúng",
+    "example": "trụng rau qua nước sôi",
+    "example_translate": "nhúng rau qua nước sôi",
+    "standard_aliases": [
+      "nhúng"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_080",
+    "keyword": "hun",
+    "aliases": [
+      "thơm"
+    ],
+    "meaning": "hôn",
+    "example": "hun hấn một cái",
+    "example_translate": "hôn nó một cái",
+    "standard_aliases": [
+      "hôn"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_081",
+    "keyword": "cưa",
+    "aliases": [],
+    "meaning": "tán tỉnh",
+    "example": "chịu khó học từ nhiều mà cưa",
+    "example_translate": "chịu khó học từ nhiều mà tán tỉnh",
+    "standard_aliases": [
+      "tán",
+      "tán tỉnh"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_082",
+    "keyword": "ngá",
+    "aliases": [],
+    "meaning": "ngứa",
+    "example": "ngá chịu nỏ được",
+    "example_translate": "ngứa chịu không được",
+    "standard_aliases": [
+      "ngứa"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_083",
+    "keyword": "rờ",
+    "aliases": [],
+    "meaning": "sờ",
+    "example": "mi đừng có rờ vô nớ",
+    "example_translate": "mày đừng có sờ vào đó",
+    "standard_aliases": [
+      "sờ",
+      "chạm"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_084",
+    "keyword": "mớ",
+    "aliases": [],
+    "meaning": "nằm mơ",
+    "example": "mớ thấy hấn đến nhà choa",
+    "example_translate": "nằm mơ thấy nó đến nhà chúng tôi",
+    "standard_aliases": [
+      "nằm mơ",
+      "nói mớ"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_085",
+    "keyword": "náng",
+    "aliases": [],
+    "meaning": "nướng",
+    "example": "náng con cá tràu lên ăng",
+    "example_translate": "nướng con cá lóc lên ăn",
+    "standard_aliases": [
+      "nướng"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_086",
+    "keyword": "looc",
+    "aliases": [],
+    "meaning": "luộc",
+    "example": "lấy nồi looc ít rau",
+    "example_translate": "lấy nồi luộc ít rau",
+    "standard_aliases": [
+      "luộc"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_087",
+    "keyword": "mói",
+    "aliases": [
+      "làm muối",
+      "muối dưa"
+    ],
+    "meaning": "muối (động từ)",
+    "example": "mói dưa ăn dần",
+    "example_translate": "muối dưa ăn dần",
+    "standard_aliases": [
+      "muối"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_088",
+    "keyword": "vo trốoc",
+    "aliases": [],
+    "meaning": "gội đầu",
+    "example": "vo trốoc là bảo gội đầu đấy em",
+    "example_translate": "",
+    "standard_aliases": [
+      "gội đầu"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_089",
+    "keyword": "ngái",
+    "aliases": [
+      "xa xôi"
+    ],
+    "meaning": "xa",
+    "example": "nhà mi có ngái trường ko",
+    "example_translate": "nhà mày có xa trường không",
+    "standard_aliases": [
+      "xa"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_090",
+    "keyword": "su",
+    "aliases": [
+      "sâu thẳm"
+    ],
+    "meaning": "sâu",
+    "example": "ao ni su ri",
+    "example_translate": "ao này sâu lắm",
+    "standard_aliases": [
+      "sâu"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_091",
+    "keyword": "nhác",
+    "aliases": [],
+    "meaning": "lười biếng",
+    "example": "hấn nhác mần lắm",
+    "example_translate": "nó lười làm lắm",
+    "standard_aliases": [
+      "lười",
+      "lười biếng"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_092",
+    "keyword": "sèm",
+    "aliases": [],
+    "meaning": "thèm, thích",
+    "example": "sèm món ni ri hè",
+    "example_translate": "thèm món này thế nhỉ",
+    "standard_aliases": [
+      "thèm",
+      "thích"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_093",
+    "keyword": "ngày mốt",
+    "aliases": [
+      "mốt"
+    ],
+    "meaning": "ngày kia",
+    "example": "mốt tau mới về",
+    "example_translate": "ngày kia tôi mới về",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_094",
+    "keyword": "xéo",
+    "aliases": [],
+    "meaning": "cút đi",
+    "example": "ông cha mi xéo",
+    "example_translate": "ông cha mày cút đi",
+    "standard_aliases": [
+      "cút đi",
+      "biến",
+      "cút"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_095",
+    "keyword": "nhể",
+    "aliases": [
+      "bựa",
+      "chuối",
+      "xấu tính"
+    ],
+    "meaning": "chuối, bựa (từ dùng để chê bai)",
+    "example": "thằng ni nhể hầy",
+    "example_translate": "thằng này chuối hầy",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_096",
+    "keyword": "nỏ",
+    "aliases": [
+      "nỏ hề",
+      "nỏ có",
+      "khộng"
+    ],
+    "meaning": "không",
+    "example": "tau ngó mà nỏ chộ chi",
+    "example_translate": "tôi nhìn mà không thấy gì",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_097",
+    "keyword": "a ri nầy",
+    "aliases": [
+      "thế này",
+      "như vầy",
+      "thế này này"
+    ],
+    "meaning": "thế này này",
+    "example": "mần a ri nầy mới đúng chơ",
+    "example_translate": "làm thế này mới đúng chứ",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_098",
+    "keyword": "ậy",
+    "aliases": [],
+    "meaning": "uhm, ừ",
+    "example": "ậy, tau biết rồi",
+    "example_translate": "ừ, tôi biết rồi",
+    "standard_aliases": [
+      "uhm",
+      "ừ",
+      "ờ"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_099",
+    "keyword": "hầy",
+    "aliases": [
+      "hè"
+    ],
+    "meaning": "nhỉ, nhở",
+    "example": "hay hầy, ai đó hầy",
+    "example_translate": "hay nhỉ, ai đó nhỉ",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_100",
+    "keyword": "rá",
+    "aliases": [],
+    "meaning": "rổ, rá",
+    "example": "lấy cái rá vo gạo",
+    "example_translate": "lấy cái rổ vo gạo",
+    "standard_aliases": [
+      "rổ"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_101",
+    "keyword": "dái dê",
+    "aliases": [
+      "cà dài",
+      "quả cà dài"
+    ],
+    "meaning": "quả cà dài",
+    "example": "dái dê là quả cà dài",
+    "example_translate": "dái dê là quả cà dài",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_102",
+    "keyword": "tương",
+    "aliases": [
+      "nước tương",
+      "tương nam đàn"
+    ],
+    "meaning": "nước tương",
+    "example": "cùng quê Bác xứ sở nước tương",
+    "example_translate": "",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_103",
+    "keyword": "chua lét",
+    "aliases": [
+      "chua loét",
+      "rất chua"
+    ],
+    "meaning": "rất chua",
+    "example": "nhút ni chua lét",
+    "example_translate": "món xơ mít muối này rất chua",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_104",
+    "keyword": "mặn chát",
+    "aliases": [
+      "rất mặn",
+      "mặn đắng"
+    ],
+    "meaning": "rất mặn",
+    "example": "nước mắm ni mặn chát",
+    "example_translate": "nước mắm này rất mặn",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_105",
+    "keyword": "mát ri",
+    "aliases": [
+      "mát lạnh",
+      "mát thế"
+    ],
+    "meaning": "mát lạnh",
+    "example": "răng hôm ni trời mát ri",
+    "example_translate": "rằng hôm nay trời mát lạnh",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_106",
+    "keyword": "khô rọ",
+    "aliases": [
+      "khô rang",
+      "rất khô"
+    ],
+    "meaning": "rất khô",
+    "example": "trời nắng khô rọ cả đất",
+    "example_translate": "trời nắng khô cả đất",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_107",
+    "keyword": "nhào dô",
+    "aliases": [
+      "vào đi",
+      "nhào vô"
+    ],
+    "meaning": "vào đi",
+    "example": "cửa mở rồi nhào dô đi",
+    "example_translate": "cửa mở rồi vào đi",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_108",
+    "keyword": "rang",
+    "aliases": [
+      "chiên"
+    ],
+    "meaning": "nướng, chiên",
+    "example": "rang con cá ni đi",
+    "example_translate": "nướng con cá này đi",
+    "standard_aliases": [
+      "nướng"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_109",
+    "keyword": "mả cha",
+    "aliases": [
+      "mộ ba",
+      "thằng cha"
+    ],
+    "meaning": "thằng cha (thường dùng như câu rủa)",
+    "example": "mả cha mi mần cấy chi ngu rứa",
+    "example_translate": "thằng cha mày làm cái gì ngu vậy",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_110",
+    "keyword": "đàng",
+    "aliases": [
+      "đường",
+      "đường đi"
+    ],
+    "meaning": "đường đi",
+    "example": "đàng ni xấu",
+    "example_translate": "đường này xấu",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_111",
+    "keyword": "rú",
+    "aliases": [
+      "núi",
+      "rừng núi"
+    ],
+    "meaning": "núi",
+    "example": "đường đàng, rú đó nghe",
+    "example_translate": "đường này, núi đó nghe",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_112",
+    "keyword": "hầy",
+    "aliases": [
+      "hây"
+    ],
+    "meaning": "nhé, nhá",
+    "example": "rứa mi làm hầy",
+    "example_translate": "thế mày làm nhé",
+    "standard_aliases": [
+      "nhé",
+      "nhá",
+      "nha"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_113",
+    "keyword": "ả",
+    "aliases": [
+      "chị",
+      "ả chắt"
+    ],
+    "meaning": "chị, gái lớn",
+    "example": "ả em du nhu bù nước đấy",
+    "example_translate": "chị em du nhu bù nước đấy",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_114",
+    "keyword": "ầy",
+    "aliases": [
+      "ày",
+      "ầy hè",
+      "phài",
+      "vâng"
+    ],
+    "meaning": "ừ, ừ nhỉ",
+    "example": "ầy, tau biết rồi",
+    "example_translate": "ừ, tôi biết rồi",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_115",
+    "keyword": "bả nhả",
+    "aliases": [
+      "bà nhả",
+      "nhiều"
+    ],
+    "meaning": "nhiều, rất nhiều",
+    "example": "cá lưa cả bà nhả",
+    "example_translate": "cá còn cả rất nhiều",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_116",
+    "keyword": "bà trắp cà trắp",
+    "aliases": [
+      "ba trợn"
+    ],
+    "meaning": "ba trợn ba trạo, lừa dối",
+    "example": "cái đồ cà trắp",
+    "example_translate": "cái đồ lừa dối",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_117",
+    "keyword": "bậm",
+    "aliases": [
+      "bụ bẫm",
+      "to mập"
+    ],
+    "meaning": "bụ bẫm, to lớn",
+    "example": "cơn mô cũng bậm",
+    "example_translate": "cây này cũng to lớn",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_118",
+    "keyword": "bạo",
+    "aliases": [
+      "mạnh khỏe",
+      "mạnh"
+    ],
+    "meaning": "mạnh khỏe",
+    "example": "thằng ni bạo lắm",
+    "example_translate": "thằng này mạnh khỏe lắm",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_119",
+    "keyword": "bấp",
+    "aliases": [
+      "vấp"
+    ],
+    "meaning": "vấp ngã",
+    "example": "ra đàng bấp cục đá",
+    "example_translate": "ra đường vấp cục đá",
+    "standard_aliases": [
+      "té"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_120",
+    "keyword": "bàu",
+    "aliases": [
+      "đầm",
+      "hồ"
+    ],
+    "meaning": "hồ nước tự nhiên",
+    "example": "cẩn thận bàu ni su đó",
+    "example_translate": "cẩn thận hồ này sâu đó",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_121",
+    "keyword": "bâu",
+    "aliases": [
+      "túi",
+      "túi áo",
+      "túi quần"
+    ],
+    "meaning": "túi áo, túi quần",
+    "example": "bâu lắm bạc hè",
+    "example_translate": "túi nhiều bạc thế",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_122",
+    "keyword": "bạy",
+    "aliases": [
+      "nạy",
+      "cạy",
+      "bẩy"
+    ],
+    "meaning": "bẩy, lật lên",
+    "example": "bạy hòn đá lên bay",
+    "example_translate": "bẩy hòn đá lên bay",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_123",
+    "keyword": "hiêu",
+    "aliases": [
+      "hươu"
+    ],
+    "meaning": "hươu",
+    "example": "cun hiêu ni nậy",
+    "example_translate": "con hươu này lớn",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_124",
+    "keyword": "bénh",
+    "aliases": [],
+    "meaning": "bánh",
+    "example": "boóc cấy bénh mà ăn",
+    "example_translate": "bóc cái bánh mà ăn",
+    "standard_aliases": [
+      "bánh"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_125",
+    "keyword": "bẹo",
+    "aliases": [
+      "véo"
+    ],
+    "meaning": "véo",
+    "example": "tau bẹo cho dừ",
+    "example_translate": "tôi véo cho bây giờ",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_126",
+    "keyword": "bít",
+    "aliases": [
+      "bứt",
+      "cắt",
+      "thái"
+    ],
+    "meaning": "cắt, bứt",
+    "example": "bít cỏ cho tru",
+    "example_translate": "cắt cỏ cho trâu",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_127",
+    "keyword": "bíu",
+    "aliases": [
+      "níu",
+      "bấu víu"
+    ],
+    "meaning": "bấu víu",
+    "example": "đừng bíu áo em",
+    "example_translate": "đừng níu áo em",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_128",
+    "keyword": "bơng",
+    "aliases": [
+      "bưng",
+      "rinh"
+    ],
+    "meaning": "bưng, rinh",
+    "example": "bơng cho cha đọi nác",
+    "example_translate": "bưng cho cha bát nác",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_129",
+    "keyword": "bôộng",
+    "aliases": [
+      "lỗ"
+    ],
+    "meaning": "cái lỗ",
+    "example": "kì bôộng ni to",
+    "example_translate": "cái lỗ này to",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_130",
+    "keyword": "boóc",
+    "aliases": [
+      "bóc"
+    ],
+    "meaning": "bóc vỏ",
+    "example": "boóc cấy bénh mà ăn",
+    "example_translate": "bóc cái bánh mà ăn",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_131",
+    "keyword": "bót",
+    "aliases": [
+      "bàn chải"
+    ],
+    "meaning": "bàn chải",
+    "example": "lấy bót chà áo",
+    "example_translate": "lấy bàn chải chà áo",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_132",
+    "keyword": "bu",
+    "aliases": [
+      "bâu"
+    ],
+    "meaning": "bâu (dành cho côn trùng)",
+    "example": "ròi bu kiến đút",
+    "example_translate": "ruồi bâu kiến cắn",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_133",
+    "keyword": "bù",
+    "aliases": [
+      "trấy bù",
+      "quả bầu"
+    ],
+    "meaning": "quả bầu",
+    "example": "khoai chợ Lù, bù chợ Huyện",
+    "example_translate": "khoai chợ Lù, quả bầu chợ Huyện",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_134",
+    "keyword": "bửa",
+    "aliases": [
+      "bổ",
+      "chẻ"
+    ],
+    "meaning": "bổ, chẻ củi",
+    "example": "năng bửa củi",
+    "example_translate": "năng bổ củi",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_135",
+    "keyword": "bựa",
+    "aliases": [
+      "bữa",
+      "ngày"
+    ],
+    "meaning": "bữa, ngày",
+    "example": "bựa mai, bựa mốt",
+    "example_translate": "ngày mai, ngày kia",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_136",
+    "keyword": "cơng",
+    "aliases": [
+      "câng",
+      "cưng"
+    ],
+    "meaning": "cưng",
+    "example": "cơng cháu bà",
+    "example_translate": "cưng cháu bà",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_137",
+    "keyword": "cộộc",
+    "aliases": [
+      "gậy"
+    ],
+    "meaning": "cái gậy",
+    "example": "cầm cộộc đi",
+    "example_translate": "cầm cái gậy đi",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_138",
+    "keyword": "chạc",
+    "aliases": [
+      "địu",
+      "dây",
+      "cấy chạc"
+    ],
+    "meaning": "cái dây",
+    "example": "buộc chạc lại",
+    "example_translate": "buộc dây lại",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_139",
+    "keyword": "chánh",
+    "aliases": [
+      "nhành cây"
+    ],
+    "meaning": "nhành cây",
+    "example": "bẻ chánh cây",
+    "example_translate": "bẻ nhành cây",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_140",
+    "keyword": "bénh bèo",
+    "aliases": [
+      "bánh lọc"
+    ],
+    "meaning": "bánh lọc",
+    "example": "ăn bénh bèo",
+    "example_translate": "ăn bánh lọc",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_141",
+    "keyword": "bấu",
+    "aliases": [],
+    "meaning": "bóp chặt, cấu",
+    "example": "bấu tay tau đau",
+    "example_translate": "bóp tay tôi đau",
+    "standard_aliases": [
+      "bóp chặt"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_142",
+    "keyword": "cà kiu",
+    "aliases": [
+      "cà chua bi"
+    ],
+    "meaning": "cà chua bi, loại cà nhỏ",
+    "example": "hái quả cà kiu",
+    "example_translate": "hái quả cà chua bi",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_143",
+    "keyword": "cại",
+    "aliases": [],
+    "meaning": "cãi lại",
+    "example": "mi đừng có cại",
+    "example_translate": "mày đừng có cãi",
+    "standard_aliases": [
+      "cãi"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_144",
+    "keyword": "cạu",
+    "aliases": [
+      "rá"
+    ],
+    "meaning": "cái rổ, rá",
+    "example": "đựng vô cạu",
+    "example_translate": "đựng vào cái rổ",
+    "standard_aliases": [
+      "rổ"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_145",
+    "keyword": "con du",
+    "aliases": [
+      "em du",
+      "chị du",
+      "cân du"
+    ],
+    "meaning": "con dâu",
+    "example": "con du trong nhà",
+    "example_translate": "con dâu trong nhà",
+    "standard_aliases": [
+      "con dâu"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_146",
+    "keyword": "tra",
+    "aliases": [],
+    "meaning": "già; già dặn, lớn tuổi",
+    "example": "bà ni tra rồi",
+    "example_translate": "bà này già rồi",
+    "standard_aliases": [
+      "già"
+    ],
+    "source_quality": "community/needs_review",
+    "note": "Từ/cụm này có thể đa nghĩa, nên ưu tiên dịch theo ngữ cảnh câu."
+  },
+  {
+    "id": "na_147",
+    "keyword": "lôông cơn",
+    "aliases": [
+      "lông cơn"
+    ],
+    "meaning": "trồng cây",
+    "example": "ra nương lôông cơn",
+    "example_translate": "ra vườn trồng cây",
+    "standard_aliases": [
+      "trồng cây"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_148",
+    "keyword": "nôốc",
+    "aliases": [],
+    "meaning": "cái thuyền",
+    "example": "đi nôốc trên rào",
+    "example_translate": "đi cái thuyền trên rào",
+    "standard_aliases": [
+      "thuyền"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_149",
+    "keyword": "đấy",
+    "aliases": [
+      "tè"
+    ],
+    "meaning": "đi tè; đái, tiểu",
+    "example": "đấy bên ni nè",
+    "example_translate": "đi tè bên này nè",
+    "standard_aliases": [
+      "đái",
+      "tiểu"
+    ],
+    "source_quality": "community/needs_review",
+    "note": "Từ/cụm này có thể đa nghĩa, nên ưu tiên dịch theo ngữ cảnh câu."
+  },
+  {
+    "id": "na_150",
+    "keyword": "thúi",
+    "aliases": [],
+    "meaning": "hôi thối",
+    "example": "thúi um lên",
+    "example_translate": "hôi um lên",
+    "standard_aliases": [
+      "hôi"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_151",
+    "keyword": "đập chắc",
+    "aliases": [],
+    "meaning": "đánh nhau",
+    "example": "hai đứa đập chắc",
+    "example_translate": "hai đứa đánh nhau",
+    "standard_aliases": [
+      "đánh nhau"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_152",
+    "keyword": "ra răng",
+    "aliases": [
+      "là thế nào",
+      "là làm sao"
+    ],
+    "meaning": "thế nào",
+    "example": "chuyện ni ra răng",
+    "example_translate": "chuyện này thế nào",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_153",
+    "keyword": "cẳng",
+    "aliases": [],
+    "meaning": "chân",
+    "example": "ngồi lọi cẳng ra",
+    "example_translate": "ngồi lọi chân ra",
+    "standard_aliases": [
+      "chân"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_154",
+    "keyword": "thâm",
+    "aliases": [],
+    "meaning": "đen, tối màu",
+    "example": "vải thâm",
+    "example_translate": "vải đen",
+    "standard_aliases": [
+      "đen"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_155",
+    "keyword": "gây",
+    "aliases": [],
+    "meaning": "cái gai",
+    "example": "đạp trúng gây",
+    "example_translate": "đạp trúng cái gai",
+    "standard_aliases": [
+      "gai"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_156",
+    "keyword": "quẹt khu",
+    "aliases": [
+      "không đời nào",
+      "vứt đi",
+      "không thèm",
+      "không cần"
+    ],
+    "meaning": "không cần, đồ bỏ đi",
+    "example": "quẹt khu i nựa",
+    "example_translate": "không thèm nữa",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_157",
+    "keyword": "vọc",
+    "aliases": [],
+    "meaning": "nghịch ngợm",
+    "example": "đừng vọc nác",
+    "example_translate": "đừng nghịch ngợm nước",
+    "standard_aliases": [
+      "nghịch"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_158",
+    "keyword": "trửa",
+    "aliases": [
+      "giữa"
+    ],
+    "meaning": "ở giữa",
+    "example": "đập cho cấy trửa mặt",
+    "example_translate": "đập cho cái giữa mặt",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_159",
+    "keyword": "ải ải",
+    "aliases": [
+      "không ăn thua",
+      "dở"
+    ],
+    "meaning": "không ăn thua, chưa tốt",
+    "example": "nhìn ải ải",
+    "example_translate": "nhìn không ăn thua",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_160",
+    "keyword": "ở một chắc",
+    "aliases": [],
+    "meaning": "ở một mình",
+    "example": "tau thích ở một chắc",
+    "example_translate": "tôi thích ở một mình",
+    "standard_aliases": [
+      "ở một mình"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_161",
+    "keyword": "rành",
+    "aliases": [
+      "sọi"
+    ],
+    "meaning": "giỏi, hiểu biết; rất tùy ngữ cảnh",
+    "example": "chị nớ sọi",
+    "example_translate": "chị ấy giỏi",
+    "standard_aliases": [
+      "giỏi",
+      "hiểu biết",
+      "rất"
+    ],
+    "source_quality": "community/needs_review",
+    "note": "Từ/cụm này có thể đa nghĩa, nên ưu tiên dịch theo ngữ cảnh câu."
+  },
+  {
+    "id": "na_162",
+    "keyword": "nhôông",
+    "aliases": [],
+    "meaning": "chồng",
+    "example": "chưa lấy nhôông hầy",
+    "example_translate": "chưa lấy chồng nhỉ",
+    "standard_aliases": [
+      "chồng"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_163",
+    "keyword": "khu mấn",
+    "aliases": [
+      "không được gì",
+      "không còn gì"
+    ],
+    "meaning": "không còn gì, không ra gì (thái độ bực tức)",
+    "example": "cấy đồ khu mấn",
+    "example_translate": "cấy đồ không ra gì",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_164",
+    "keyword": "cọt",
+    "aliases": [],
+    "meaning": "gầy gò",
+    "example": "thằng ni cọt mại",
+    "example_translate": "thằng này gầy mãi nhỉ",
+    "standard_aliases": [
+      "gầy",
+      "ốm"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_165",
+    "keyword": "xỏ lá",
+    "aliases": [],
+    "meaning": "dối trá, gian xảo",
+    "example": "đồ xỏ lá",
+    "example_translate": "đồ dối trá",
+    "standard_aliases": [
+      "dối trá",
+      "lừa lọc"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_166",
+    "keyword": "nhác trượn rọt",
+    "aliases": [],
+    "meaning": "lười chảy thây",
+    "example": "mi nhác trượn rọt",
+    "example_translate": "mày lười chảy thây",
+    "standard_aliases": [
+      "lười biếng"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_167",
+    "keyword": "chém mồm chém miệng",
+    "aliases": [],
+    "meaning": "trộm vía",
+    "example": "chém mồm chém miệng cháu ngoan",
+    "example_translate": "trộm vía cháu ngoan",
+    "standard_aliases": [
+      "trộm vía"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_168",
+    "keyword": "đọc vầy",
+    "aliases": [
+      "đọc mù"
+    ],
+    "meaning": "nói đại, nói bừa",
+    "example": "mi toàn đọc vầy",
+    "example_translate": "mày toàn nói bừa",
+    "standard_aliases": [
+      "nói bừa"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_169",
+    "keyword": "ngoắc",
+    "aliases": [],
+    "meaning": "móc treo đồ, quần áo",
+    "example": "treo lên cái ngoắc",
+    "example_translate": "treo lên cái móc treo",
+    "standard_aliases": [
+      "móc treo"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_170",
+    "keyword": "rờ rờ rận rận",
+    "aliases": [],
+    "meaning": "vớ va vớ vẩn, linh tinh",
+    "example": "chuyện rờ rờ rận rận",
+    "example_translate": "chuyện vớ vẩn",
+    "standard_aliases": [
+      "vớ vẩn",
+      "linh tinh"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_171",
+    "keyword": "hu và bớp",
+    "aliases": [
+      "tung và hứng"
+    ],
+    "meaning": "tung và hứng (nói chuyện)",
+    "example": "hai đứa cứ hu và bớp",
+    "example_translate": "hai đứa cứ tung và hứng",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_172",
+    "keyword": "ốt",
+    "aliases": [],
+    "meaning": "quán, cửa hàng",
+    "example": "ra ốt mua đồ",
+    "example_translate": "ra quán mua đồ",
+    "standard_aliases": [
+      "quán",
+      "tiệm",
+      "cửa hàng"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_173",
+    "keyword": "nhim",
+    "aliases": [
+      "râm",
+      "mát"
+    ],
+    "meaning": "chỗ râm mát",
+    "example": "đứng vô chộ nhim khỏi nắng",
+    "example_translate": "đứng vào chỗ râm mát khỏi nắng",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_174",
+    "keyword": "tớp leo",
+    "aliases": [],
+    "meaning": "nói chen vào",
+    "example": "đừng có tớp leo",
+    "example_translate": "đừng có nói chen vào",
+    "standard_aliases": [
+      "nói chen"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_175",
+    "keyword": "loong bia",
+    "aliases": [],
+    "meaning": "lon bia",
+    "example": "uống loong bia",
+    "example_translate": "uống lon bia",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_176",
+    "keyword": "rình",
+    "aliases": [],
+    "meaning": "rình mò",
+    "example": "đi rình chim",
+    "example_translate": "đi rình chim",
+    "standard_aliases": [
+      "rình mò"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_177",
+    "keyword": "khu",
+    "aliases": [],
+    "meaning": "mông, đít",
+    "example": "đập vô khu",
+    "example_translate": "đập vào mông",
+    "standard_aliases": [
+      "mông"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_178",
+    "keyword": "trụt quỳn",
+    "aliases": [],
+    "meaning": "tụt quần",
+    "example": "té trụt quỳn",
+    "example_translate": "té tụt quần",
+    "standard_aliases": [
+      "tụt quần"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_179",
+    "keyword": "đôộng",
+    "aliases": [],
+    "meaning": "động; đồi tùy vùng",
+    "example": "đi vô đôộng cẩn thận",
+    "example_translate": "đi vào động cẩn thận",
+    "standard_aliases": [
+      "động",
+      "đồi"
+    ],
+    "source_quality": "community/needs_review",
+    "note": "Từ/cụm này có thể đa nghĩa, nên ưu tiên dịch theo ngữ cảnh câu."
+  },
+  {
+    "id": "na_180",
+    "keyword": "lả",
+    "aliases": [],
+    "meaning": "lửa",
+    "example": "ai hỏi lả thì châm",
+    "example_translate": "ai hỏi lửa thì châm",
+    "standard_aliases": [
+      "lửa"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_181",
+    "keyword": "lá trù",
+    "aliases": [],
+    "meaning": "lá trầu",
+    "example": "ăn mếng lá trù",
+    "example_translate": "ăn mếng lá trầu",
+    "standard_aliases": [
+      "lá trầu"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_182",
+    "keyword": "mắc",
+    "aliases": [],
+    "meaning": "bận rộn",
+    "example": "tau mắc đi mần",
+    "example_translate": "tôi bận đi làm",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_183",
+    "keyword": "bọ",
+    "aliases": [
+      "ông bọ"
+    ],
+    "meaning": "bố, cha",
+    "example": "bọ đi mô rồi",
+    "example_translate": "bố đi đâu rồi",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_184",
+    "keyword": "xuy măng",
+    "aliases": [],
+    "meaning": "xi măng",
+    "example": "mua bao xuy măng",
+    "example_translate": "mua bao xi măng",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_185",
+    "keyword": "cựa",
+    "aliases": [],
+    "meaning": "cửa ra vào",
+    "example": "đóng cựa lại",
+    "example_translate": "đóng cửa lại",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_186",
+    "keyword": "lấy chắc",
+    "aliases": [],
+    "meaning": "lấy nhau, kết hôn",
+    "example": "hai đứa nớ lấy chắc",
+    "example_translate": "hai đứa ấy lấy nhau",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_187",
+    "keyword": "mụi",
+    "aliases": [],
+    "meaning": "cái mũi",
+    "example": "đau mụi",
+    "example_translate": "đau mũi",
+    "standard_aliases": [
+      "mũi"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_188",
+    "keyword": "chin tay",
+    "aliases": [],
+    "meaning": "chân tay",
+    "example": "rửa chin tay đi",
+    "example_translate": "rửa chân tay đi",
+    "standard_aliases": [
+      "chân tay"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_189",
+    "keyword": "gắt ló",
+    "aliases": [],
+    "meaning": "gặt lúa",
+    "example": "đi gắt ló mùa ni",
+    "example_translate": "đi gặt lúa mùa này",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_190",
+    "keyword": "đọt",
+    "aliases": [],
+    "meaning": "ngọn cây",
+    "example": "hái đọt rau",
+    "example_translate": "hái ngọn rau",
+    "standard_aliases": [
+      "ngọn"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_191",
+    "keyword": "cưa gấy",
+    "aliases": [],
+    "meaning": "tán gái",
+    "example": "đi cưa gấy làng bên",
+    "example_translate": "đi tán gái làng bên",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_192",
+    "keyword": "túi",
+    "aliases": [
+      "buổi túi"
+    ],
+    "meaning": "buổi tối",
+    "example": "túi qua tau nỏ ngủ được",
+    "example_translate": "buổi tối qua tôi không ngủ được",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_193",
+    "keyword": "nạm",
+    "aliases": [],
+    "meaning": "một nắm",
+    "example": "lấy một nạm ló",
+    "example_translate": "lấy một nắm lúa",
+    "standard_aliases": [
+      "nắm"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_194",
+    "keyword": "trấy",
+    "aliases": [],
+    "meaning": "trái, quả",
+    "example": "trấy ổi ni ngon",
+    "example_translate": "quả ổi này ngon",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_195",
+    "keyword": "cơn ná",
+    "aliases": [],
+    "meaning": "cây nứa",
+    "example": "chặt cơn ná",
+    "example_translate": "chặt cây nứa",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_196",
+    "keyword": "cân",
+    "aliases": [
+      "mấy cân"
+    ],
+    "meaning": "mấy con",
+    "example": "nhà mi có mấy đứa cân",
+    "example_translate": "nhà bạn có mấy đứa con",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_197",
+    "keyword": "tắn",
+    "aliases": [
+      "con tắn"
+    ],
+    "meaning": "con rắn",
+    "example": "cun tắn nớ to rứa bây hầy",
+    "example_translate": "con rắn đó to thế mọi người nhỉ",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_198",
+    "keyword": "nhịt",
+    "aliases": [
+      "con nhịt"
+    ],
+    "meaning": "kì lưng",
+    "example": "đi tắm nhớ nhịt kì lưng",
+    "example_translate": "đi tắm nhớ kì lưng",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_199",
+    "keyword": "tóoc",
+    "aliases": [],
+    "meaning": "rơm rạ",
+    "example": "toóc nớ to rứa bây hầy",
+    "example_translate": "rơm rạ đó to thế mọi người nhỉ",
+    "standard_aliases": [
+      "rơm rạ"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_200",
+    "keyword": "mảy",
+    "aliases": [],
+    "meaning": "tí",
+    "example": "lấy chù tau một mảy với",
+    "example_translate": "lấy cho tôi một tí với",
+    "standard_aliases": [
+      "tí"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_201",
+    "keyword": "khóoc",
+    "aliases": [],
+    "meaning": "khóc",
+    "example": "khoóc nhao ì bây ả",
+    "example_translate": "khóc ầm luôn mọi người ạ",
+    "standard_aliases": [
+      "khóc"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_202",
+    "keyword": "ôong",
+    "aliases": [],
+    "meaning": "ông",
+    "example": "ôong tau mọi hồi đi lính ngầu lắm",
+    "example_translate": "ông tôi mọi hồi đi lính ngầu lắm",
+    "standard_aliases": [
+      "ông"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_203",
+    "keyword": "ung",
+    "aliases": [],
+    "meaning": "cậu, bạn; đôi khi dùng như tiểu từ hỏi 'không?' tùy ngữ cảnh",
+    "example": "anh cụ thể biết lý do ung",
+    "example_translate": "anh có thể biết lý do không",
+    "standard_aliases": [
+      "cậu",
+      "bạn",
+      "không"
+    ],
+    "source_quality": "user_verified",
+    "note": "Từ đa nghĩa. Nếu đứng cuối câu hỏi thì thường mang nghĩa 'không?'. Nếu dùng để xưng hô thì gần nghĩa 'cậu/bạn'."
+  },
+  {
+    "id": "na_204",
+    "keyword": "trộ",
+    "aliases": [
+      "bạo"
+    ],
+    "meaning": "bão, lụt",
+    "example": "trộ bạo năm nay nặng lắm",
+    "example_translate": "bão lụt năm nay nặng lắm",
+    "standard_aliases": [
+      "bão lụt"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_205",
+    "keyword": "nhit",
+    "aliases": [],
+    "meaning": "nhất",
+    "example": "sướng nhit luôn bây nả",
+    "example_translate": "sướng nhất luôn mọi người ạ",
+    "standard_aliases": [
+      "nhất"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_206",
+    "keyword": "kít",
+    "aliases": [],
+    "meaning": "cứt",
+    "example": "kít nớ bốc mùi quá",
+    "example_translate": "cứt đó bốc mùi quá",
+    "standard_aliases": [
+      "cứt"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_207",
+    "keyword": "ỏm",
+    "aliases": [],
+    "meaning": "ồn ào",
+    "example": "cại chắc ỏm luôn",
+    "example_translate": "cãi nhau ồn ào luôn",
+    "standard_aliases": [
+      "ồn ào"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_208",
+    "keyword": "bủi",
+    "aliases": [],
+    "meaning": "buổi",
+    "example": "bủi túi đi ăn",
+    "example_translate": "buổi tối đi ăn",
+    "standard_aliases": [
+      "buổi"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_209",
+    "keyword": "bươi",
+    "aliases": [],
+    "meaning": "bới",
+    "example": "bươi kì đoạn nớ lên cấy",
+    "example_translate": "bới cái đoạn đó lên cái",
+    "standard_aliases": [
+      "bới"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_210",
+    "keyword": "mọi bựa",
+    "aliases": [],
+    "meaning": "mọi hôm",
+    "example": "mọi bựa đi chơi vui vại",
+    "example_translate": "mọi hôm đi chơi vui vãi",
+    "standard_aliases": [
+      "mọi hôm"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_211",
+    "keyword": "rọng",
+    "aliases": [
+      "roọng"
+    ],
+    "meaning": "ruộng",
+    "example": "đi mần rọng từ sáng sớm",
+    "example_translate": "đi làm ruộng từ sáng sớm",
+    "standard_aliases": [
+      "ruộng",
+      "đồng"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_212",
+    "keyword": "vại",
+    "aliases": [],
+    "meaning": "vãi",
+    "example": "mọi bựa đi chơi vui vại",
+    "example_translate": "mọi hôm đi chơi vui vãi",
+    "standard_aliases": [
+      "vãi"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_213",
+    "keyword": "lộ",
+    "aliases": [
+      "lỗ"
+    ],
+    "meaning": "lỗ",
+    "example": "lộ ni su lắm",
+    "example_translate": "lỗ ni sâu lắm",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_214",
+    "keyword": "cụng",
+    "aliases": [
+      "cũng"
+    ],
+    "meaning": "cũng",
+    "example": "thằng nớ cụng điên lắm",
+    "example_translate": "thằng đó cũng điên lắm",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_215",
+    "keyword": "đụng",
+    "aliases": [],
+    "meaning": "chạm",
+    "example": "đụng rồi, đừng có nói nữa",
+    "example_translate": "chạm rồi, đừng có nói nữa",
+    "standard_aliases": [
+      "chạm"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_216",
+    "keyword": "đạ",
+    "aliases": [
+      "đã"
+    ],
+    "meaning": "đã",
+    "example": "bựa qua đạ làm bài chưa",
+    "example_translate": "hôm qua đã làm bài chưa",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_217",
+    "keyword": "đem",
+    "aliases": [
+      "đưa",
+      "mang",
+      "đón tiễn"
+    ],
+    "meaning": "đưa, mang",
+    "example": "đưa tau ki đọi",
+    "example_translate": "đưa tôi cái bát",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_218",
+    "keyword": "sẹc",
+    "aliases": [
+      "sẹch",
+      "sạch"
+    ],
+    "meaning": "sạch",
+    "example": "nac ở đây sẹch lắm",
+    "example_translate": "nước ở đây sạch lắm",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_219",
+    "keyword": "nựa",
+    "aliases": [
+      "nữa"
+    ],
+    "meaning": "nữa",
+    "example": "một lần ni nựa thôi",
+    "example_translate": "một lần này nữa thôi",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_220",
+    "keyword": "nhào",
+    "aliases": [
+      "bừa bừa",
+      "ngầu nhiên"
+    ],
+    "meaning": "bừa bừa, ngẫu nhiên",
+    "example": "mần nhào i mà về",
+    "example_translate": "làm bừa bừa mà về",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_221",
+    "keyword": "lưa",
+    "aliases": [
+      "còn"
+    ],
+    "meaning": "còn",
+    "example": "lưa nhiều nựa không",
+    "example_translate": "còn nhiều nữa không",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_222",
+    "keyword": "ram",
+    "aliases": [
+      "nem"
+    ],
+    "meaning": "nem",
+    "example": "méng ram nớ ngon lắm",
+    "example_translate": "món nem đó ngon lắm",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "id": "na_223",
+    "keyword": "đôồng",
+    "aliases": [
+      "cánh đồng"
+    ],
+    "meaning": "cánh đồng",
+    "example": "đi đôồng làm việc",
+    "example_translate": "đi cánh đồng làm việc",
+    "standard_aliases": [
+      "đồng"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "ác",
+    "aliases": [
+      "ác xắc",
+      "ác là",
+      "xắc xắc",
+      "ắc xắc"
+    ],
+    "meaning": "con quạ",
+    "example": "ác tắm thì dợ, tráo trợ tắm thì mưa",
+    "example_translate": "quạ tắm thì ráo, sáo tắm thì mưa",
+    "id": "na_224",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "chắt ả",
+    "aliases": [
+      "cháu ả"
+    ],
+    "meaning": "chị lớn, gái lớn",
+    "example": "chắt ả trong nhà đã đi lấy nhông",
+    "example_translate": "chị lớn trong nhà đã đi lấy chồng",
+    "id": "na_225",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "ả nậy",
+    "aliases": [
+      "chị nậy"
+    ],
+    "meaning": "chị lớn, chị cả",
+    "example": "ả nậy đi chợ về rồi",
+    "example_translate": "chị cả đi chợ về rồi",
+    "id": "na_226",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "ăn phúng",
+    "aliases": [
+      "lục phúng",
+      "phúng"
+    ],
+    "meaning": "ăn vụng",
+    "example": "đói quá nên hấn lục phúng",
+    "example_translate": "đói quá nên nó ăn vụng",
+    "id": "na_227",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "ắc lè",
+    "aliases": [
+      "lặc lè"
+    ],
+    "meaning": "khuỷu chân",
+    "example": "đi nhiều đau hết cả ắc lè",
+    "example_translate": "đi nhiều đau hết cả khuỷu chân",
+    "id": "na_228",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "báp ló",
+    "aliases": [
+      "ló báp"
+    ],
+    "meaning": "bắp ngô",
+    "example": "ra nương hái báp ló về náng",
+    "example_translate": "ra vườn hái bắp ngô về nướng",
+    "id": "na_229",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "be",
+    "aliases": [
+      "be hiêu",
+      "be hươu"
+    ],
+    "meaning": "chai nhỏ khoảng một phần tư lít",
+    "example": "mua một be riệu về cho bọ",
+    "example_translate": "mua một chai rượu nhỏ về cho bố",
+    "id": "na_230",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "bénh mướt",
+    "aliases": [
+      "bánh mướt"
+    ],
+    "meaning": "bánh cuốn",
+    "example": "sáng ni ăn bénh mướt",
+    "example_translate": "sáng nay ăn bánh cuốn",
+    "id": "na_231",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "bối",
+    "aliases": [
+      "bối tóc"
+    ],
+    "meaning": "búi tóc",
+    "example": "mệ bối tóc gọn gàng",
+    "example_translate": "mẹ búi tóc gọn gàng",
+    "id": "na_232",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "bôốc",
+    "aliases": [
+      "bốc",
+      "vốc"
+    ],
+    "meaning": "bốc, vốc bằng tay",
+    "example": "bôốc cho em nạm xôi",
+    "example_translate": "bốc cho em một nắm xôi",
+    "id": "na_233",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "bù gáo",
+    "aliases": [
+      "bù eo"
+    ],
+    "meaning": "quả bầu hình hồ lô",
+    "example": "mệ hái bù gáo ngoài nương",
+    "example_translate": "mẹ hái quả bầu hồ lô ngoài vườn",
+    "id": "na_234",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "bù sao",
+    "aliases": [],
+    "meaning": "quả bầu dài có đốm",
+    "example": "bù sao ni để giống",
+    "example_translate": "quả bầu dài có đốm này để giống",
+    "id": "na_235",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "bù rợ",
+    "aliases": [],
+    "meaning": "bí đỏ",
+    "example": "nấu canh bù rợ với tôm",
+    "example_translate": "nấu canh bí đỏ với tôm",
+    "id": "na_236",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "nồi bù",
+    "aliases": [
+      "tréch bù"
+    ],
+    "meaning": "nồi đất, niêu đất",
+    "example": "kho cá trong nồi bù",
+    "example_translate": "kho cá trong nồi đất",
+    "id": "na_237",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "cắm",
+    "aliases": [
+      "cẳm"
+    ],
+    "meaning": "cắn",
+    "example": "mọi cắm đỏ cả tay",
+    "example_translate": "muỗi cắn đỏ cả tay",
+    "id": "na_238",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "cenh",
+    "aliases": [],
+    "meaning": "canh",
+    "example": "vô ăn cơm cenh đi bay",
+    "example_translate": "vào ăn cơm canh đi các bạn",
+    "id": "na_239",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "khoai chạc",
+    "aliases": [
+      "chạc khoai"
+    ],
+    "meaning": "rễ cái khoai lang hoặc củ khoai nhỏ còn sót",
+    "example": "nhặt khoai chạc cho heo",
+    "example_translate": "nhặt củ khoai nhỏ cho lợn",
+    "id": "na_240",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "chẹ",
+    "aliases": [],
+    "meaning": "sợi vải tơ dăng trên khung dệt",
+    "example": "chẹ trên khung dệt bị rối",
+    "example_translate": "sợi vải trên khung dệt bị rối",
+    "id": "na_241",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "chỉn",
+    "aliases": [],
+    "meaning": "chỉ, sợi chỉ",
+    "example": "lấy chỉn xe lại cho chắc",
+    "example_translate": "lấy chỉ xe lại cho chắc",
+    "id": "na_242",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "chọ",
+    "aliases": [
+      "chõ"
+    ],
+    "meaning": "chõ xôi",
+    "example": "đặt chọ lên bếp đồ xôi",
+    "example_translate": "đặt chõ lên bếp đồ xôi",
+    "id": "na_243",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "chọ hỏ",
+    "aliases": [
+      "chò hỏ",
+      "ngồi chọ hỏ"
+    ],
+    "meaning": "ngồi chồm hổm",
+    "example": "mụ ngồi chọ hỏ xéo khoai",
+    "example_translate": "bà ngồi chồm hổm thái khoai",
+    "id": "na_244",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "chóe",
+    "aliases": [],
+    "meaning": "cái chum con",
+    "example": "đựng cà trong chóe nhỏ",
+    "example_translate": "đựng cà trong cái chum nhỏ",
+    "id": "na_245",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "chôổng",
+    "aliases": [
+      "chổng"
+    ],
+    "meaning": "chổng, đưa lên",
+    "example": "con nít chôổng khu lên",
+    "example_translate": "đứa trẻ chổng mông lên",
+    "id": "na_246",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "cố",
+    "aliases": [],
+    "meaning": "cụ",
+    "example": "cố tổ nhà choa",
+    "example_translate": "cụ tổ nhà chúng tôi",
+    "id": "na_247",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "cổ",
+    "aliases": [],
+    "meaning": "củ",
+    "example": "đào mấy cổ khoai",
+    "example_translate": "đào mấy củ khoai",
+    "id": "na_248",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "cổi",
+    "aliases": [],
+    "meaning": "cởi",
+    "example": "cổi áo ra cho mát",
+    "example_translate": "cởi áo ra cho mát",
+    "id": "na_249",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "cợi",
+    "aliases": [],
+    "meaning": "cưỡi",
+    "example": "cợi tru qua đồng",
+    "example_translate": "cưỡi trâu qua đồng",
+    "id": "na_250",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "cụ",
+    "aliases": [],
+    "meaning": "cậu, anh/em trai của mẹ",
+    "example": "cụ sang nhà choa nhởi",
+    "example_translate": "cậu sang nhà chúng tôi chơi",
+    "id": "na_251",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "cức",
+    "aliases": [],
+    "meaning": "tức",
+    "example": "nghe rứa cức đạ gớm",
+    "example_translate": "nghe thế tức thật đấy",
+    "id": "na_252",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "cùn",
+    "aliases": [],
+    "meaning": "mòn vẹt, cùn",
+    "example": "con dao ni cùn rồi",
+    "example_translate": "con dao này cùn rồi",
+    "id": "na_253",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "cưởi",
+    "aliases": [],
+    "meaning": "sương đêm",
+    "example": "cưởi xuống ướt cả cươi",
+    "example_translate": "sương đêm xuống ướt cả sân",
+    "id": "na_254",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "dắc",
+    "aliases": [],
+    "meaning": "dắt",
+    "example": "mệ dắc con tới trường",
+    "example_translate": "mẹ dắt con tới trường",
+    "id": "na_255",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "đài",
+    "aliases": [],
+    "meaning": "gàu múc nước",
+    "example": "lấy đài múc nác",
+    "example_translate": "lấy gàu múc nước",
+    "id": "na_256",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "đài địu",
+    "aliases": [],
+    "meaning": "gàu múc nước bằng cao su",
+    "example": "cấy đài địu ni rách rồi",
+    "example_translate": "cái gàu cao su này rách rồi",
+    "id": "na_257",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "khau",
+    "aliases": [],
+    "meaning": "gàu múc nước bằng mo cau",
+    "example": "ông dùng khau múc nác",
+    "example_translate": "ông dùng gàu mo cau múc nước",
+    "id": "na_258",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "dam",
+    "aliases": [],
+    "meaning": "cua đồng",
+    "example": "ra rọng bắt dam",
+    "example_translate": "ra ruộng bắt cua đồng",
+    "id": "na_259",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "nác dam",
+    "aliases": [],
+    "meaning": "nước mắm làm bằng cua đồng",
+    "example": "mệ chấm rau với nác dam",
+    "example_translate": "mẹ chấm rau với nước mắm cua đồng",
+    "id": "na_260",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "dắm",
+    "aliases": [],
+    "meaning": "cấy dặm, trồng chen thêm, tra hạt vào lỗ",
+    "example": "dắm ló cho kín rọng",
+    "example_translate": "cấy dặm lúa cho kín ruộng",
+    "id": "na_261",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "dắt",
+    "aliases": [],
+    "meaning": "con hến con",
+    "example": "nác dắt Kẻ Hạ ngon",
+    "example_translate": "nước luộc hến con Kẻ Hạ ngon",
+    "id": "na_262",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "nác dắt",
+    "aliases": [],
+    "meaning": "nước luộc hến",
+    "example": "uống đọi nác dắt nóng",
+    "example_translate": "uống bát nước luộc hến nóng",
+    "id": "na_263",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "đạy",
+    "aliases": [],
+    "meaning": "túi xách học trò bện bằng sợi đay",
+    "example": "mang sách trong cái đạy",
+    "example_translate": "mang sách trong cái túi đay",
+    "id": "na_264",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "dẹ",
+    "aliases": [],
+    "meaning": "chỗ đất bị nén xuống",
+    "example": "mưa to dẹ hết đất",
+    "example_translate": "mưa to làm đất bị nén xuống",
+    "id": "na_265",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "dên",
+    "aliases": [
+      "rau dên"
+    ],
+    "meaning": "rau dền",
+    "example": "hái rau dên về loọc",
+    "example_translate": "hái rau dền về luộc",
+    "id": "na_266",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "đit",
+    "aliases": [],
+    "meaning": "đứt",
+    "example": "chạc mụi bị đit rồi",
+    "example_translate": "dây mũi bị đứt rồi",
+    "id": "na_267",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "dợ",
+    "aliases": [],
+    "meaning": "ráo tạnh; tháo dỡ",
+    "example": "mong trời dợ cho khô",
+    "example_translate": "mong trời tạnh ráo cho khô",
+    "id": "na_268",
+    "source_quality": "community/needs_review",
+    "note": "Từ/cụm này có thể đa nghĩa, nên ưu tiên dịch theo ngữ cảnh câu."
+  },
+  {
+    "keyword": "dới",
+    "aliases": [],
+    "meaning": "dưới",
+    "example": "ngồi dới côộc cơn",
+    "example_translate": "ngồi dưới gốc cây",
+    "id": "na_269",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "độ",
+    "aliases": [],
+    "meaning": "đỗ, đậu",
+    "example": "nấu cenh độ ăn cơm",
+    "example_translate": "nấu canh đậu ăn cơm",
+    "id": "na_270",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "đợ",
+    "aliases": [],
+    "meaning": "đỡ",
+    "example": "đợ tau một tay",
+    "example_translate": "đỡ tôi một tay",
+    "id": "na_271",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "đọa",
+    "aliases": [],
+    "meaning": "mệt nhọc hết sức",
+    "example": "mần cả bựa đọa quá",
+    "example_translate": "làm cả ngày mệt quá",
+    "id": "na_272",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "dú",
+    "aliases": [
+      "dú chuối",
+      "dú hồng"
+    ],
+    "meaning": "ủ cho quả chín",
+    "example": "dú chuối vài bựa là chín",
+    "example_translate": "ủ chuối vài ngày là chín",
+    "id": "na_273",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "dui",
+    "aliases": [],
+    "meaning": "dùi, khoan",
+    "example": "lấy dui khoan lỗ",
+    "example_translate": "lấy dùi khoan lỗ",
+    "id": "na_274",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "đụa",
+    "aliases": [],
+    "meaning": "đũa",
+    "example": "lấy đôi đụa ra ăn cơm",
+    "example_translate": "lấy đôi đũa ra ăn cơm",
+    "id": "na_275",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "dún",
+    "aliases": [],
+    "meaning": "rốn",
+    "example": "em bé lộ dún",
+    "example_translate": "em bé lộ rốn",
+    "id": "na_276",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "dút",
+    "aliases": [],
+    "meaning": "dốt",
+    "example": "hấn hoọc dút lắm",
+    "example_translate": "nó học dốt lắm",
+    "id": "na_277",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "dựt",
+    "aliases": [],
+    "meaning": "giật",
+    "example": "nghe tiếng nổ mà dựt mình",
+    "example_translate": "nghe tiếng nổ mà giật mình",
+    "id": "na_278",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "enh",
+    "aliases": [
+      "ênh",
+      "yêng"
+    ],
+    "meaning": "anh",
+    "example": "enh cả về rồi",
+    "example_translate": "anh cả về rồi",
+    "id": "na_279",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "ẻ",
+    "aliases": [],
+    "meaning": "ỉa",
+    "example": "con nít đòi ẻ",
+    "example_translate": "đứa trẻ đòi đi ỉa",
+    "id": "na_280",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "éch",
+    "aliases": [],
+    "meaning": "ách cày",
+    "example": "éch trửa đàng quàng vô cổ",
+    "example_translate": "ách cày giữa đường quàng vào cổ",
+    "id": "na_281",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "gại",
+    "aliases": [
+      "khải"
+    ],
+    "meaning": "gãi ngứa",
+    "example": "tau ngá lưng mi gại cho tau",
+    "example_translate": "tôi ngứa lưng mày gãi cho tôi",
+    "id": "na_282",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "gấy",
+    "aliases": [
+      "cân gấy",
+      "con gái"
+    ],
+    "meaning": "vợ; con gái tùy ngữ cảnh",
+    "example": "nhông với gấy đi chợ",
+    "example_translate": "chồng với vợ đi chợ",
+    "id": "na_283",
+    "source_quality": "community/needs_review",
+    "note": "Từ/cụm này có thể đa nghĩa, nên ưu tiên dịch theo ngữ cảnh câu."
+  },
+  {
+    "keyword": "ghin",
+    "aliases": [
+      "gưn",
+      "gin"
+    ],
+    "meaning": "gần",
+    "example": "nhà mi ghin trường không",
+    "example_translate": "nhà mày gần trường không",
+    "id": "na_284",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "giôống",
+    "aliases": [],
+    "meaning": "giống",
+    "example": "giự giôống cho mùa sau",
+    "example_translate": "giữ giống cho mùa sau",
+    "id": "na_285",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "giự",
+    "aliases": [],
+    "meaning": "giữ",
+    "example": "giự cửa cho tau",
+    "example_translate": "giữ cửa cho tôi",
+    "id": "na_286",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "gọ",
+    "aliases": [],
+    "meaning": "gõ",
+    "example": "gọ cửa gọi mệ",
+    "example_translate": "gõ cửa gọi mẹ",
+    "id": "na_287",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "gộ",
+    "aliases": [],
+    "meaning": "gỗ",
+    "example": "cái mươn làm bằng gộ",
+    "example_translate": "cái bàn làm bằng gỗ",
+    "id": "na_288",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "gờng",
+    "aliases": [
+      "gầng",
+      "gưng"
+    ],
+    "meaning": "gừng",
+    "example": "cay như khỉ ăn gưng",
+    "example_translate": "cay như khỉ ăn gừng",
+    "id": "na_289",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "gức",
+    "aliases": [],
+    "meaning": "gấc",
+    "example": "nấu xôi gức",
+    "example_translate": "nấu xôi gấc",
+    "id": "na_290",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "gụ",
+    "aliases": [],
+    "meaning": "con gấu",
+    "example": "cười như gụ say mật",
+    "example_translate": "cười như gấu say mật",
+    "id": "na_291",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "hại",
+    "aliases": [],
+    "meaning": "hãi",
+    "example": "đi đêm tau hại lắm",
+    "example_translate": "đi đêm tôi sợ lắm",
+    "id": "na_292",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "hạm",
+    "aliases": [],
+    "meaning": "hãm",
+    "example": "đừng nói hạm rứa",
+    "example_translate": "đừng nói hãm thế",
+    "id": "na_293",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "hẩng",
+    "aliases": [],
+    "meaning": "trời hửng nắng",
+    "example": "trời hẩng rồi đi phơi ló",
+    "example_translate": "trời hửng nắng rồi đi phơi thóc",
+    "id": "na_294",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "hẻn",
+    "aliases": [],
+    "meaning": "cá trê",
+    "example": "bắt được con hẻn to",
+    "example_translate": "bắt được con cá trê to",
+    "id": "na_295",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "hoe",
+    "aliases": [],
+    "meaning": "con đầu lòng",
+    "example": "ả hoe trong nhà",
+    "example_translate": "chị đầu lòng trong nhà",
+    "id": "na_296",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "hói",
+    "aliases": [],
+    "meaning": "đoạn sông cụt",
+    "example": "cá rô ở hói nhiều",
+    "example_translate": "cá rô ở đoạn sông cụt nhiều",
+    "id": "na_297",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "hớng",
+    "aliases": [
+      "hấng"
+    ],
+    "meaning": "hứng",
+    "example": "đưa đọi ra hớng nác mưa",
+    "example_translate": "đưa bát ra hứng nước mưa",
+    "id": "na_298",
+    "source_quality": "community/needs_review"
+  },
+  
+  {
+    "keyword": "hoọc",
+    "aliases": [],
+    "meaning": "học",
+    "example": "con đi hoọc chưa",
+    "example_translate": "con đi học chưa",
+    "id": "na_299",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "hụ",
+    "aliases": [],
+    "meaning": "hũ",
+    "example": "đựng gạo trong hụ",
+    "example_translate": "đựng gạo trong hũ",
+    "id": "na_300",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "hui",
+    "aliases": [],
+    "meaning": "thui",
+    "example": "thịt bò hui thơm",
+    "example_translate": "thịt bò thui thơm",
+    "id": "na_301",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "ì",
+    "aliases": [],
+    "meaning": "ừ",
+    "example": "ì, tau biết rồi",
+    "example_translate": "ừ, tôi biết rồi",
+    "id": "na_302",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "ỉu",
+    "aliases": [],
+    "meaning": "bị ẩm, không còn giòn",
+    "example": "bánh tráng ỉu hết rồi",
+    "example_translate": "bánh tráng bị ẩm hết rồi",
+    "id": "na_303",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "kè",
+    "aliases": [
+      "tro kè"
+    ],
+    "meaning": "một giống cọ rách lá",
+    "example": "tro kè làng Đông",
+    "example_translate": "cọ kè làng Đông",
+    "id": "na_304",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "kháp",
+    "aliases": [],
+    "meaning": "gặp mặt",
+    "example": "hai đứa kháp nhau ở hội",
+    "example_translate": "hai đứa gặp nhau ở hội",
+    "id": "na_305",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "khạp",
+    "aliases": [],
+    "meaning": "thùng gỗ lớn đựng nước, mật hoặc mắm",
+    "example": "đổ nác mưa vô khạp",
+    "example_translate": "đổ nước mưa vào thùng gỗ lớn",
+    "id": "na_306",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "khảy",
+    "aliases": [],
+    "meaning": "gãy đàn",
+    "example": "hấn khảy đờn hay lắm",
+    "example_translate": "nó gảy đàn hay lắm",
+    "id": "na_307",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "khén",
+    "aliases": [],
+    "meaning": "được phơi khô giòn thơm mùi nắng",
+    "example": "lúa khén đem cất bồ",
+    "example_translate": "lúa phơi khô giòn đem cất vào bồ",
+    "id": "na_308",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "khỏ",
+    "aliases": [],
+    "meaning": "cốc vào đầu",
+    "example": "tau khỏ trốc mi đó",
+    "example_translate": "tôi cốc đầu mày đó",
+    "id": "na_309",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "khở",
+    "aliases": [],
+    "meaning": "gỡ, bóc ra",
+    "example": "khở vỏ bénh ra",
+    "example_translate": "bóc vỏ bánh ra",
+    "id": "na_310",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "khót",
+    "aliases": [],
+    "meaning": "vót, gọt",
+    "example": "khót nan đan phên",
+    "example_translate": "vót nan đan liếp",
+    "id": "na_311",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "khu đọi",
+    "aliases": [],
+    "meaning": "trôn bát",
+    "example": "rửa kỹ khu đọi",
+    "example_translate": "rửa kỹ trôn bát",
+    "id": "na_312",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "khu ẻ",
+    "aliases": [],
+    "meaning": "lỗ đít",
+    "example": "nói khu ẻ nghe thô",
+    "example_translate": "nói lỗ đít nghe thô",
+    "id": "na_313",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "khun",
+    "aliases": [],
+    "meaning": "khôn",
+    "example": "thằng ni khun lắm",
+    "example_translate": "thằng này khôn lắm",
+    "id": "na_314",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "lại",
+    "aliases": [
+      "lưỡi"
+    ],
+    "meaning": "lưỡi",
+    "example": "chó le lại",
+    "example_translate": "chó le lưỡi",
+    "id": "na_315",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "lắt",
+    "aliases": [
+      "lặt"
+    ],
+    "meaning": "nhặt; thiến tùy ngữ cảnh",
+    "example": "ra nương lắt rau",
+    "example_translate": "ra vườn nhặt rau",
+    "id": "na_316",
+    "source_quality": "community/needs_review",
+    "note": "Từ/cụm này có thể đa nghĩa, nên ưu tiên dịch theo ngữ cảnh câu."
+  },
+  {
+    "keyword": "lảy",
+    "aliases": [
+      "trảy",
+      "tảy"
+    ],
+    "meaning": "hái quả",
+    "example": "lảy mấy trấy ổi",
+    "example_translate": "hái mấy quả ổi",
+    "id": "na_317",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "lẩy",
+    "aliases": [
+      "mần lẩy"
+    ],
+    "meaning": "làm dỗi, làm hờn",
+    "example": "hấn mần lẩy rồi",
+    "example_translate": "nó dỗi rồi",
+    "id": "na_318",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "lể",
+    "aliases": [],
+    "meaning": "khêu, khều",
+    "example": "lể gây trong chân ra",
+    "example_translate": "khều gai trong chân ra",
+    "id": "na_319",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "liện",
+    "aliases": [],
+    "meaning": "liễn, vại nhỏ để muối cà hoặc mắm",
+    "example": "muối cà trong cái liện",
+    "example_translate": "muối cà trong cái liễn",
+    "id": "na_320",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "lốm",
+    "aliases": [
+      "nót lốm",
+      "nót lống"
+    ],
+    "meaning": "nuốt chửng",
+    "example": "hấn nót lốm miếng cá",
+    "example_translate": "nó nuốt chửng miếng cá",
+    "id": "na_321",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "lòn",
+    "aliases": [
+      "gạo lòn",
+      "bắp lòn"
+    ],
+    "meaning": "gạo tẻ, ngô tẻ",
+    "example": "nấu nồi gạo lòn",
+    "example_translate": "nấu nồi gạo tẻ",
+    "id": "na_322",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "lót lét",
+    "aliases": [],
+    "meaning": "rón rén",
+    "example": "hấn đi lót lét vô nhà",
+    "example_translate": "nó đi rón rén vào nhà",
+    "id": "na_323",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "loỏng",
+    "aliases": [],
+    "meaning": "lỏng lẻo",
+    "example": "cái chạc ni loỏng rồi",
+    "example_translate": "cái dây này lỏng rồi",
+    "id": "na_324",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "lôổng",
+    "aliases": [
+      "trộng",
+      "trôộng"
+    ],
+    "meaning": "lủng",
+    "example": "cái nồi lôổng đáy",
+    "example_translate": "cái nồi lủng đáy",
+    "id": "na_325",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "luồi",
+    "aliases": [],
+    "meaning": "sào tre chống thuyền",
+    "example": "chống nôốc bằng luồi",
+    "example_translate": "chống thuyền bằng sào tre",
+    "id": "na_326",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "lút",
+    "aliases": [
+      "nác lút"
+    ],
+    "meaning": "nước ngập, nước lụt",
+    "example": "mưa to nác lút cả cươi",
+    "example_translate": "mưa to nước ngập cả sân",
+    "id": "na_327",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "mạn",
+    "aliases": [],
+    "meaning": "mượn",
+    "example": "mạn tau cái bót",
+    "example_translate": "mượn tôi cái bàn chải",
+    "id": "na_328",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "mẳn",
+    "aliases": [],
+    "meaning": "nhỏ, hạt nhỏ",
+    "example": "tấm mẳn cho ga ăn",
+    "example_translate": "tấm nhỏ cho gà ăn",
+    "id": "na_329",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "mạo",
+    "aliases": [
+      "miều"
+    ],
+    "meaning": "cái mũ",
+    "example": "đội mạo đi nắng",
+    "example_translate": "đội mũ đi nắng",
+    "id": "na_330",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "mén",
+    "aliases": [],
+    "meaning": "nhỏ",
+    "example": "dam mén mới nở",
+    "example_translate": "cua đồng nhỏ mới nở",
+    "id": "na_331",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "mên",
+    "aliases": [],
+    "meaning": "phên, liếp đan bằng nứa",
+    "example": "dựng cái mên che gió",
+    "example_translate": "dựng cái phên che gió",
+    "id": "na_332",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "ménh",
+    "aliases": [
+      "méng",
+      "mánh"
+    ],
+    "meaning": "miếng",
+    "example": "ăn một ménh cá",
+    "example_translate": "ăn một miếng cá",
+    "id": "na_333",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "mẹnh",
+    "aliases": [
+      "mẹng"
+    ],
+    "meaning": "miệng",
+    "example": "nhịn mẹnh đãi khách",
+    "example_translate": "nhịn miệng đãi khách",
+    "id": "na_334",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "trơn mít",
+    "aliases": [],
+    "meaning": "trơn bóng, chối bay chối biến",
+    "example": "hấn chối trơn mít",
+    "example_translate": "nó chối bay chối biến",
+    "id": "na_335",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "mọm",
+    "aliases": [],
+    "meaning": "mõm",
+    "example": "con chó dài mọm",
+    "example_translate": "con chó dài mõm",
+    "id": "na_336",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "mống",
+    "aliases": [
+      "môống"
+    ],
+    "meaning": "mầm hạt",
+    "example": "ló mọoc mống rồi",
+    "example_translate": "lúa mọc mầm rồi",
+    "id": "na_337",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "mờng",
+    "aliases": [
+      "mầng"
+    ],
+    "meaning": "mừng",
+    "example": "mờng quá bây ơi",
+    "example_translate": "mừng quá các bạn ơi",
+    "id": "na_338",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "mự",
+    "aliases": [],
+    "meaning": "mợ",
+    "example": "mự sang nhà chơi",
+    "example_translate": "mợ sang nhà chơi",
+    "id": "na_339",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "mụ gia",
+    "aliases": [],
+    "meaning": "mẹ chồng; mẹ chồng, sắc thái có thể không thân mật",
+    "example": "con du thương mụ gia",
+    "example_translate": "con dâu thương mẹ chồng",
+    "id": "na_340",
+    "source_quality": "community/needs_review",
+    "note": "Từ/cụm này có thể đa nghĩa, nên ưu tiên dịch theo ngữ cảnh câu."
+  },
+  {
+    "keyword": "mui",
+    "aliases": [],
+    "meaning": "môi",
+    "example": "gấy thâm mui",
+    "example_translate": "cô gái thâm môi",
+    "id": "na_341",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "mun",
+    "aliases": [],
+    "meaning": "tro bếp",
+    "example": "lấy mun bón cơn",
+    "example_translate": "lấy tro bếp bón cây",
+    "id": "na_342",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "mùng",
+    "aliases": [
+      "màn"
+    ],
+    "meaning": "màn",
+    "example": "buông mùng ngủ",
+    "example_translate": "buông màn ngủ",
+    "id": "na_343",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "mủng",
+    "aliases": [],
+    "meaning": "dụng cụ đong lúa",
+    "example": "xúc một mủng độ",
+    "example_translate": "xúc một mủng đậu",
+    "id": "na_344",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "mụt",
+    "aliases": [],
+    "meaning": "mụn nhọt",
+    "example": "mụt mọc ở tay",
+    "example_translate": "mụn nhọt mọc ở tay",
+    "id": "na_345",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "ná",
+    "aliases": [],
+    "meaning": "nứa",
+    "example": "chặt cơn ná về làm phên",
+    "example_translate": "chặt cây nứa về làm phên",
+    "id": "na_346",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "nân",
+    "aliases": [],
+    "meaning": "béo núc ních",
+    "example": "đứa bé nân đầu nân đuôi",
+    "example_translate": "đứa bé béo núc ních",
+    "id": "na_347",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "ngành",
+    "aliases": [
+      "chành"
+    ],
+    "meaning": "cành cây",
+    "example": "bẻ ngành khô làm củi",
+    "example_translate": "bẻ cành khô làm củi",
+    "id": "na_348",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "ngảnh",
+    "aliases": [],
+    "meaning": "ngoảnh",
+    "example": "ngảnh lại chộ tau",
+    "example_translate": "ngoảnh lại nhìn tôi",
+    "id": "na_349",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "ngay",
+    "aliases": [],
+    "meaning": "ngày",
+    "example": "hơn một ngay hay một đều",
+    "example_translate": "hơn một ngày hay một điều",
+    "id": "na_350",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "ngầy",
+    "aliases": [],
+    "meaning": "ngấy",
+    "example": "ăn nhiều mỡ ngầy quá",
+    "example_translate": "ăn nhiều mỡ ngấy quá",
+    "id": "na_351",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "nghẹch",
+    "aliases": [
+      "nghéch",
+      "ngạch"
+    ],
+    "meaning": "ngách, ngóc ngách",
+    "example": "lục khắp mọi nghẹch",
+    "example_translate": "lục khắp mọi ngóc ngách",
+    "id": "na_352",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "nghị",
+    "aliases": [],
+    "meaning": "nghĩ",
+    "example": "ngần đi nghị lại",
+    "example_translate": "ngẫm đi nghĩ lại",
+    "id": "na_353",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "nghỉn",
+    "aliases": [],
+    "meaning": "một hơi; xỉn màu tùy ngữ cảnh",
+    "example": "hấn uống một nghỉn",
+    "example_translate": "nó uống một hơi",
+    "id": "na_354",
+    "source_quality": "community/needs_review",
+    "note": "Từ/cụm này có thể đa nghĩa, nên ưu tiên dịch theo ngữ cảnh câu."
+  },
+  {
+    "keyword": "chết nghit",
+    "aliases": [
+      "chết nghít"
+    ],
+    "meaning": "chết ngất",
+    "example": "nghe tin mà hấn chết nghit",
+    "example_translate": "nghe tin mà nó chết ngất",
+    "id": "na_355",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "nghít",
+    "aliases": [],
+    "meaning": "ngắt, hái rau",
+    "example": "nghít rau ngoài nương",
+    "example_translate": "ngắt rau ngoài vườn",
+    "id": "na_356",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "ngò",
+    "aliases": [],
+    "meaning": "rau mùi",
+    "example": "bỏ ít ngò vô canh",
+    "example_translate": "bỏ ít rau mùi vào canh",
+    "id": "na_357",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "ngọi",
+    "aliases": [
+      "đừng ngọi",
+      "đừng moọng"
+    ],
+    "meaning": "đừng hòng",
+    "example": "mi đừng ngọi lấy được",
+    "example_translate": "mày đừng hòng lấy được",
+    "id": "na_358",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "ngong",
+    "aliases": [],
+    "meaning": "trông, nhìn",
+    "example": "em cứ ngong theo",
+    "example_translate": "em cứ trông theo",
+    "id": "na_359",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "ngốt",
+    "aliases": [],
+    "meaning": "ngột ngạt",
+    "example": "trong nhà ngốt quá",
+    "example_translate": "trong nhà ngột ngạt quá",
+    "id": "na_360",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "nham",
+    "aliases": [],
+    "meaning": "món nộm làm bằng củ chuối hột",
+    "example": "ăn nham với bánh đa",
+    "example_translate": "ăn nộm củ chuối hột với bánh đa",
+    "id": "na_361",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "nhẳng",
+    "aliases": [],
+    "meaning": "cao gầy khẳng khiu",
+    "example": "thằng ni nhẳng quá",
+    "example_translate": "thằng này cao gầy quá",
+    "id": "na_362",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "nhe",
+    "aliases": [],
+    "meaning": "nhắm cho trúng; nhé tùy ngữ cảnh",
+    "example": "nhe cho trúng rồi ném",
+    "example_translate": "nhắm cho trúng rồi ném",
+    "id": "na_363",
+    "source_quality": "community/needs_review",
+    "note": "Từ/cụm này có thể đa nghĩa, nên ưu tiên dịch theo ngữ cảnh câu."
+  },
+  {
+    "keyword": "nhợ",
+    "aliases": [],
+    "meaning": "nhựa, mủ cây",
+    "example": "nhợ cây dính tay",
+    "example_translate": "nhựa cây dính tay",
+    "id": "na_364",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "nhủ",
+    "aliases": [],
+    "meaning": "bảo, khuyên",
+    "example": "mệ nhủ con lo học",
+    "example_translate": "mẹ khuyên con lo học",
+    "id": "na_365",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "nhui",
+    "aliases": [],
+    "meaning": "dúi cho ngã nhào",
+    "example": "đừng nhui bạn bổ",
+    "example_translate": "đừng dúi bạn ngã",
+    "id": "na_366",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "nia",
+    "aliases": [],
+    "meaning": "nong nhỏ",
+    "example": "phơi lạc trên cái nia",
+    "example_translate": "phơi lạc trên cái nong nhỏ",
+    "id": "na_367",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "niêu trách",
+    "aliases": [
+      "niêu tréch"
+    ],
+    "meaning": "niêu đất",
+    "example": "kho cá bằng niêu trách",
+    "example_translate": "kho cá bằng niêu đất",
+    "id": "na_368",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "nit",
+    "aliases": [],
+    "meaning": "nứt",
+    "example": "ruộng khô nit nẻ",
+    "example_translate": "ruộng khô nứt nẻ",
+    "id": "na_369",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "nờ",
+    "aliases": [
+      "nà"
+    ],
+    "meaning": "à, kìa",
+    "example": "rứa nờ, tau biết rồi",
+    "example_translate": "vậy à, tôi biết rồi",
+    "id": "na_370",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "nom",
+    "aliases": [],
+    "meaning": "dòm, nhìn",
+    "example": "o tê nom rành sọi",
+    "example_translate": "cô kia nhìn rất xinh",
+    "id": "na_371",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "nồm",
+    "aliases": [],
+    "meaning": "gió khô nóng thổi từ hướng núi",
+    "example": "trưa ni nắng nồm",
+    "example_translate": "trưa nay có gió khô nóng",
+    "id": "na_372",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "noóc",
+    "aliases": [],
+    "meaning": "nóc nhà",
+    "example": "mèo leo lên noóc",
+    "example_translate": "mèo leo lên nóc nhà",
+    "id": "na_373",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "nôống",
+    "aliases": [],
+    "meaning": "nong lớn",
+    "example": "phơi ló trên nôống",
+    "example_translate": "phơi thóc trên nong lớn",
+    "id": "na_374",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "nớng",
+    "aliases": [],
+    "meaning": "nựng con",
+    "example": "mệ nớng cháu cả ngày",
+    "example_translate": "mẹ nựng cháu cả ngày",
+    "id": "na_375",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "nót",
+    "aliases": [],
+    "meaning": "nuốt",
+    "example": "mía ngọt nót cả cụm",
+    "example_translate": "mía ngọt nuốt cả cụm",
+    "id": "na_376",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "nu",
+    "aliases": [],
+    "meaning": "củ nâu dùng nhuộm vải",
+    "example": "lấy nu nhuộm vải",
+    "example_translate": "lấy củ nâu nhuộm vải",
+    "id": "na_377",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "nư",
+    "aliases": [],
+    "meaning": "khóc kiểu ăn vạ",
+    "example": "đứa bé nư giữa cươi",
+    "example_translate": "đứa bé khóc ăn vạ giữa sân",
+    "id": "na_378",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "nực",
+    "aliases": [],
+    "meaning": "sốt, nóng bức; bệnh hen suyễn",
+    "example": "trưa ni nực quá",
+    "example_translate": "trưa nay nóng quá",
+    "id": "na_379",
+    "source_quality": "community/needs_review",
+    "note": "Từ/cụm này có thể đa nghĩa, nên ưu tiên dịch theo ngữ cảnh câu."
+  },
+  {
+    "keyword": "nức",
+    "aliases": [],
+    "meaning": "nấc cụt",
+    "example": "ăn nhanh bị nức",
+    "example_translate": "ăn nhanh bị nấc cụt",
+    "id": "na_380",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "nuộc lạt",
+    "aliases": [],
+    "meaning": "múi lạt buộc",
+    "example": "cột bằng một nuộc lạt",
+    "example_translate": "buộc bằng một múi lạt",
+    "id": "na_381",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "o hướu",
+    "aliases": [],
+    "meaning": "con tu hú",
+    "example": "o hướu kêu ngoài rú",
+    "example_translate": "con tu hú kêu ngoài núi",
+    "id": "na_382",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "oong",
+    "aliases": [],
+    "meaning": "ong",
+    "example": "oong bay quanh vườn",
+    "example_translate": "ong bay quanh vườn",
+    "id": "na_383",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "ồng ộng",
+    "aliases": [
+      "ôồng ôộng"
+    ],
+    "meaning": "nước trút ào ào",
+    "example": "mưa xuống ồng ộng",
+    "example_translate": "mưa xuống ào ào",
+    "id": "na_384",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "óp",
+    "aliases": [
+      "hột óp"
+    ],
+    "meaning": "hạt lép",
+    "example": "lọc hột óp ra",
+    "example_translate": "lọc hạt lép ra",
+    "id": "na_385",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "oi",
+    "aliases": [],
+    "meaning": "giỏ hom đan bằng tre để đựng cá",
+    "example": "đeo oi đi đánh dậm",
+    "example_translate": "đeo giỏ tre đi đánh cá",
+    "id": "na_386",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "phại",
+    "aliases": [
+      "phải"
+    ],
+    "meaning": "phải",
+    "example": "làm rứa mới phại",
+    "example_translate": "làm thế mới phải",
+    "id": "na_387",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "phầng",
+    "aliases": [
+      "phờng phờng"
+    ],
+    "meaning": "mặt phừng phừng",
+    "example": "nóng quá mặt phầng phầng",
+    "example_translate": "nóng quá mặt phừng phừng",
+    "id": "na_388",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "phắt",
+    "aliases": [],
+    "meaning": "cóp nhặt, góp cành khô làm củi",
+    "example": "đi phắt củi ngoài rú",
+    "example_translate": "đi góp cành khô ngoài núi",
+    "id": "na_389",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "phên",
+    "aliases": [],
+    "meaning": "vách nứa, liếp nứa",
+    "example": "đan phên che nhà",
+    "example_translate": "đan vách nứa che nhà",
+    "id": "na_390",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "phéch",
+    "aliases": [],
+    "meaning": "vạch",
+    "example": "phéch áo cho con bú",
+    "example_translate": "vạch áo cho con bú",
+    "id": "na_391",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "phit",
+    "aliases": [],
+    "meaning": "vặt, nhổ, cắt",
+    "example": "phit cỏ cho tru",
+    "example_translate": "cắt cỏ cho trâu",
+    "id": "na_392",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "phô",
+    "aliases": [],
+    "meaning": "nói",
+    "example": "phô với mẹ thầy",
+    "example_translate": "nói với cha mẹ",
+    "id": "na_393",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "phót",
+    "aliases": [
+      "phót qua"
+    ],
+    "meaning": "nhảy qua",
+    "example": "phót qua mương nác",
+    "example_translate": "nhảy qua mương nước",
+    "id": "na_394",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "quỳn",
+    "aliases": [
+      "quừn"
+    ],
+    "meaning": "cái quần",
+    "example": "xắn quỳn lên lội nác",
+    "example_translate": "xắn quần lên lội nước",
+    "id": "na_395",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "quyn nớ",
+    "aliases": [
+      "quưn nớ",
+      "cun nớ"
+    ],
+    "meaning": "bọn đó, chúng nó",
+    "example": "quyn nớ đi mô rồi",
+    "example_translate": "bọn đó đi đâu rồi",
+    "id": "na_396",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "quyt",
+    "aliases": [
+      "quứt"
+    ],
+    "meaning": "quất roi",
+    "example": "tau quyt cho mấy roi",
+    "example_translate": "tôi quất cho mấy roi",
+    "id": "na_397",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "rạ",
+    "aliases": [],
+    "meaning": "dao rựa",
+    "example": "cầm rạ chém củi",
+    "example_translate": "cầm dao rựa chém củi",
+    "id": "na_398",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "rặc",
+    "aliases": [
+      "cạn rặc"
+    ],
+    "meaning": "cạn khô",
+    "example": "ao ni cạn rặc rồi",
+    "example_translate": "ao này cạn khô rồi",
+    "id": "na_399",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "rặt rặt",
+    "aliases": [],
+    "meaning": "chim sẻ",
+    "example": "rặt rặt bay ngoài cươi",
+    "example_translate": "chim sẻ bay ngoài sân",
+    "id": "na_400",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "ràn",
+    "aliases": [],
+    "meaning": "chuồng bò, chuồng gia súc",
+    "example": "dắt bò vô ràn",
+    "example_translate": "dắt bò vào chuồng",
+    "id": "na_401",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "rếp",
+    "aliases": [],
+    "meaning": "con rệp",
+    "example": "giường có rếp",
+    "example_translate": "giường có rệp",
+    "id": "na_402",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "ri",
+    "aliases": [],
+    "meaning": "thế này, như thế này",
+    "example": "làm ri mới đúng",
+    "example_translate": "làm thế này mới đúng",
+    "id": "na_403",
+    "source_quality": "community/needs_review",
+    "note": "Thường đứng cuối cụm tính từ hoặc cuối câu để chỉ mức độ/trạng thái như 'như thế', 'như vậy'."
+  },
+  {
+    "keyword": "rớ",
+    "aliases": [],
+    "meaning": "vó nhỏ dùng cất tép",
+    "example": "đặt rớ bắt tép",
+    "example_translate": "đặt vó nhỏ bắt tép",
+    "id": "na_404",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "rộc",
+    "aliases": [
+      "rục",
+      "đìa"
+    ],
+    "meaning": "vũng nước còn sót lại ở đồng khô hoặc bờ sông cạn",
+    "example": "cá còn trong rộc",
+    "example_translate": "cá còn trong vũng nước sót lại",
+    "id": "na_405",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "rom",
+    "aliases": [
+      "tóm"
+    ],
+    "meaning": "gầy ốm",
+    "example": "hấn dạo ni rom lắm",
+    "example_translate": "nó dạo này gầy lắm",
+    "id": "na_406",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "rụ",
+    "aliases": [],
+    "meaning": "rũ",
+    "example": "mệt rụ cả người",
+    "example_translate": "mệt rũ cả người",
+    "id": "na_407",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "rựa",
+    "aliases": [],
+    "meaning": "rữa",
+    "example": "đồ ăn để lâu rựa rồi",
+    "example_translate": "đồ ăn để lâu rữa rồi",
+    "id": "na_408",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "rum",
+    "aliases": [],
+    "meaning": "màu đỏ tím",
+    "example": "mặt hấn đỏ rum",
+    "example_translate": "mặt nó đỏ tím",
+    "id": "na_409",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "rưng lưa",
+    "aliases": [
+      "nưng lưa"
+    ],
+    "meaning": "đang còn",
+    "example": "trong nồi rưng lưa cơm",
+    "example_translate": "trong nồi đang còn cơm",
+    "id": "na_410",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "rược mợ",
+    "aliases": [],
+    "meaning": "rửng mỡ",
+    "example": "mi rược mợ quá",
+    "example_translate": "mày rửng mỡ quá",
+    "id": "na_411",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "rượng",
+    "aliases": [],
+    "meaning": "dượng",
+    "example": "rượng tau vừa đến",
+    "example_translate": "dượng tôi vừa đến",
+    "id": "na_412",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "sạ",
+    "aliases": [],
+    "meaning": "gieo thẳng lúa",
+    "example": "sạ ló ngoài rọng",
+    "example_translate": "gieo lúa thẳng ngoài ruộng",
+    "id": "na_413",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "sảo",
+    "aliases": [
+      "rổ sảo",
+      "rổ sưa"
+    ],
+    "meaning": "rổ thưa cỡ lớn",
+    "example": "đựng rau trong rổ sảo",
+    "example_translate": "đựng rau trong rổ thưa lớn",
+    "id": "na_414",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "sáp",
+    "aliases": [],
+    "meaning": "nến",
+    "example": "thắp cây sáp lên",
+    "example_translate": "thắp cây nến lên",
+    "id": "na_415",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "sây",
+    "aliases": [
+      "sây trấy"
+    ],
+    "meaning": "sai quả, nhiều quả",
+    "example": "cơn ổi ni sây trấy",
+    "example_translate": "cây ổi này sai quả",
+    "id": "na_416",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "sắt",
+    "aliases": [],
+    "meaning": "thắt",
+    "example": "nghe mà sắt rọt",
+    "example_translate": "nghe mà thắt ruột",
+    "id": "na_417",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "sẹ",
+    "aliases": [
+      "sẹ sẹ"
+    ],
+    "meaning": "khẽ, nhẹ nhàng",
+    "example": "đi sẹ sẹ thôi",
+    "example_translate": "đi khẽ thôi",
+    "id": "na_418",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "sôông",
+    "aliases": [],
+    "meaning": "sông",
+    "example": "sôông su nác nậy",
+    "example_translate": "sông sâu nước lớn",
+    "id": "na_419",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "sưa",
+    "aliases": [],
+    "meaning": "thưa",
+    "example": "cấy sưa thừa đất",
+    "example_translate": "cấy thưa thừa đất",
+    "id": "na_420",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "siu",
+    "aliases": [],
+    "meaning": "thiu",
+    "example": "cơm để lâu siu rồi",
+    "example_translate": "cơm để lâu thiu rồi",
+    "id": "na_421",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "tảng mai",
+    "aliases": [],
+    "meaning": "sáng sớm",
+    "example": "tảng mai tau đi rọng",
+    "example_translate": "sáng sớm tôi đi ruộng",
+    "id": "na_422",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "tấp trộc",
+    "aliases": [],
+    "meaning": "lễ bỏ trầu",
+    "example": "nhà trai làm lễ tấp trộc",
+    "example_translate": "nhà trai làm lễ bỏ trầu",
+    "id": "na_423",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "théch",
+    "aliases": [
+      "nói théch",
+      "nói séch"
+    ],
+    "meaning": "nói thách",
+    "example": "mi théch giá cao quá",
+    "example_translate": "mày nói thách giá cao quá",
+    "id": "na_424",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "thỉ",
+    "aliases": [],
+    "meaning": "một tý, một chút",
+    "example": "cho tau một thỉ muối",
+    "example_translate": "cho tôi một chút muối",
+    "id": "na_425",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "tơi",
+    "aliases": [
+      "áo tơi"
+    ],
+    "meaning": "áo lá che nắng mưa",
+    "example": "mặc tơi ra đồng",
+    "example_translate": "mặc áo tơi ra đồng",
+    "id": "na_426",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "tợn",
+    "aliases": [],
+    "meaning": "khỏe mạnh",
+    "example": "thằng ni tợn lắm",
+    "example_translate": "thằng này khỏe lắm",
+    "id": "na_427",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "trấm",
+    "aliases": [
+      "đấy trấm"
+    ],
+    "meaning": "đái dầm",
+    "example": "đứa nhỏ đấy trấm",
+    "example_translate": "đứa nhỏ đái dầm",
+    "id": "na_428",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "trấn",
+    "aliases": [
+      "trấn mấn"
+    ],
+    "meaning": "con rận",
+    "example": "trấn mấn cắn ngá",
+    "example_translate": "rận váy cắn ngứa",
+    "id": "na_429",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "trẩn",
+    "aliases": [],
+    "meaning": "lẩn trốn; nện, đập một trận",
+    "example": "hấn trẩn mất tang",
+    "example_translate": "nó lẩn mất tăm",
+    "id": "na_430",
+    "source_quality": "community/needs_review",
+    "note": "Từ/cụm này có thể đa nghĩa, nên ưu tiên dịch theo ngữ cảnh câu."
+  },
+  {
+    "keyword": "trành",
+    "aliases": [
+      "trènh"
+    ],
+    "meaning": "sành",
+    "example": "cái chum trành",
+    "example_translate": "cái chum sành",
+    "id": "na_431",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "tráo",
+    "aliases": [
+      "tráo trợ"
+    ],
+    "meaning": "chim sáo đen",
+    "example": "tráo trợ tắm thì mưa",
+    "example_translate": "chim sáo đen tắm thì mưa",
+    "id": "na_432",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "trập",
+    "aliases": [],
+    "meaning": "sập xuống, hạ xuống",
+    "example": "mái nhà trập xuống",
+    "example_translate": "mái nhà sập xuống",
+    "id": "na_433",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "trắp vả",
+    "aliases": [
+      "trập vả"
+    ],
+    "meaning": "bắp vế, bắp đùi",
+    "example": "đi bộ đau trắp vả",
+    "example_translate": "đi bộ đau bắp đùi",
+    "id": "na_434",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "trắt",
+    "aliases": [],
+    "meaning": "lúa rang",
+    "example": "ăn trắt quen mồm",
+    "example_translate": "ăn lúa rang quen miệng",
+    "id": "na_435",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "trặt",
+    "aliases": [],
+    "meaning": "bó chặt",
+    "example": "trặt dây quá rồi",
+    "example_translate": "buộc chặt quá rồi",
+    "id": "na_436",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "trày",
+    "aliases": [],
+    "meaning": "cái chày",
+    "example": "lấy trày giã gạo",
+    "example_translate": "lấy cái chày giã gạo",
+    "id": "na_437",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "trây",
+    "aliases": [
+      "trây tra"
+    ],
+    "meaning": "bôi trét; dây dưa",
+    "example": "đừng trây bùn lên áo",
+    "example_translate": "đừng bôi bùn lên áo",
+    "id": "na_438",
+    "source_quality": "community/needs_review",
+    "note": "Từ/cụm này có thể đa nghĩa, nên ưu tiên dịch theo ngữ cảnh câu."
+  },
+  {
+    "keyword": "trẹ",
+    "aliases": [],
+    "meaning": "rẽ",
+    "example": "đến ngã ba thì trẹ phải",
+    "example_translate": "đến ngã ba thì rẽ phải",
+    "id": "na_439",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "trém",
+    "aliases": [],
+    "meaning": "lém lỉnh",
+    "example": "thằng cu trém hẹ",
+    "example_translate": "thằng bé lém lỉnh nhỉ",
+    "id": "na_440",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "trẻo",
+    "aliases": [
+      "trẻo mép"
+    ],
+    "meaning": "khôn lanh, ma mãnh",
+    "example": "hấn trẻo đạ gớm",
+    "example_translate": "nó ma mãnh lắm",
+    "id": "na_441",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "trẹo",
+    "aliases": [],
+    "meaning": "sẹo",
+    "example": "tay hấn có trẹo",
+    "example_translate": "tay nó có sẹo",
+    "id": "na_442",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "trết",
+    "aliases": [],
+    "meaning": "dính bết; trát xây nhà",
+    "example": "bùn trết đầy chân",
+    "example_translate": "bùn dính bết đầy chân",
+    "id": "na_443",
+    "source_quality": "community/needs_review",
+    "note": "Từ/cụm này có thể đa nghĩa, nên ưu tiên dịch theo ngữ cảnh câu."
+  },
+  {
+    "keyword": "triêng",
+    "aliases": [],
+    "meaning": "đòn gánh",
+    "example": "gánh ló bằng triêng",
+    "example_translate": "gánh thóc bằng đòn gánh",
+    "id": "na_444",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "trìm",
+    "aliases": [],
+    "meaning": "chìm; món xáo gà Nghệ Tĩnh",
+    "example": "con thuyền trìm rồi",
+    "example_translate": "con thuyền chìm rồi",
+    "id": "na_445",
+    "source_quality": "community/needs_review",
+    "note": "Từ/cụm này có thể đa nghĩa, nên ưu tiên dịch theo ngữ cảnh câu."
+  },
+  {
+    "keyword": "trỉn",
+    "aliases": [],
+    "meaning": "mùi hôi của thịt bò, trâu, dê",
+    "example": "thịt ni trỉn quá",
+    "example_translate": "thịt này hôi quá",
+    "id": "na_446",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "trịn",
+    "aliases": [],
+    "meaning": "ngồi bệt",
+    "example": "ngồi trịn khu một chộ",
+    "example_translate": "ngồi bệt một chỗ",
+    "id": "na_447",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "tríu",
+    "aliases": [
+      "tríu chắc"
+    ],
+    "meaning": "níu kéo nhau",
+    "example": "hai đứa tríu chắc nhau",
+    "example_translate": "hai đứa níu kéo nhau",
+    "id": "na_448",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "tro",
+    "aliases": [],
+    "meaning": "cây cọ",
+    "example": "lá tro dùng lợp nhà",
+    "example_translate": "lá cọ dùng lợp nhà",
+    "id": "na_449",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "trọ",
+    "aliases": [],
+    "meaning": "tiền đình",
+    "example": "tra mốc trọ",
+    "example_translate": "già mốc tiền đình",
+    "id": "na_450",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "trộ nác",
+    "aliases": [],
+    "meaning": "dòng nước chảy do mưa tạo nên",
+    "example": "trộ nác chảy ngang đàng",
+    "example_translate": "dòng nước mưa chảy ngang đường",
+    "id": "na_451",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "troạng",
+    "aliases": [],
+    "meaning": "thủng; vụng về",
+    "example": "cái thùng troạng rồi",
+    "example_translate": "cái thùng thủng rồi",
+    "id": "na_452",
+    "source_quality": "community/needs_review",
+    "note": "Từ/cụm này có thể đa nghĩa, nên ưu tiên dịch theo ngữ cảnh câu."
+  },
+  {
+    "keyword": "trộc",
+    "aliases": [
+      "trôộc",
+      "dốc"
+    ],
+    "meaning": "lối đi mấp mô hoặc nơi nước chảy ngang đường; dốc tùy vùng",
+    "example": "phót qua cái trôộc",
+    "example_translate": "nhảy qua bờ mô mương nước",
+    "id": "na_453",
+    "source_quality": "community/needs_review",
+    "note": "Từ/cụm này có thể đa nghĩa, nên ưu tiên dịch theo ngữ cảnh câu."
+  },
+  {
+    "keyword": "troi",
+    "aliases": [
+      "giòi",
+      "con giòi",
+      "con troi"
+    ],
+    "meaning": "con dòi",
+    "example": "đồ ăn có troi",
+    "example_translate": "đồ ăn có dòi",
+    "id": "na_454",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "trọi",
+    "aliases": [],
+    "meaning": "cốc đầu",
+    "example": "tau trọi cho một cấy",
+    "example_translate": "tôi cốc cho một cái",
+    "id": "na_455",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "trợi",
+    "aliases": [],
+    "meaning": "sợi",
+    "example": "lấy một trợi dây",
+    "example_translate": "lấy một sợi dây",
+    "id": "na_456",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "trơi đời",
+    "aliases": [],
+    "meaning": "xấu hổ",
+    "example": "trơi đời nhà mi",
+    "example_translate": "xấu hổ nhà mày",
+    "id": "na_457",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "trọm",
+    "aliases": [],
+    "meaning": "hốc hác, trũng sâu mặt mày",
+    "example": "hấn nhìn trọm cả mặt",
+    "example_translate": "nó nhìn hốc hác cả mặt",
+    "id": "na_458",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "trổng",
+    "aliases": [],
+    "meaning": "trống hoác",
+    "example": "nhà trổng hoác",
+    "example_translate": "nhà trống hoác",
+    "id": "na_459",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "trớng",
+    "aliases": [
+      "trấng"
+    ],
+    "meaning": "trứng",
+    "example": "ga đẻ trớng",
+    "example_translate": "gà đẻ trứng",
+    "id": "na_460",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "troong",
+    "aliases": [],
+    "meaning": "trong",
+    "example": "troong nớ có chi",
+    "example_translate": "trong đó có gì",
+    "id": "na_461",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "trọt",
+    "aliases": [
+      "troọt nác"
+    ],
+    "meaning": "giọt gianh",
+    "example": "trọt nác rơi ngoài hiên",
+    "example_translate": "giọt nước rơi ngoài hiên",
+    "id": "na_462",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "trớt",
+    "aliases": [],
+    "meaning": "được đếch gì đâu",
+    "example": "làm rứa được trớt chi mô",
+    "example_translate": "làm thế được gì đâu",
+    "id": "na_463",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "trợt",
+    "aliases": [],
+    "meaning": "trượt",
+    "example": "đi trợt bổ ngửa",
+    "example_translate": "đi trượt té ngửa",
+    "id": "na_464",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "trú",
+    "aliases": [],
+    "meaning": "trấu",
+    "example": "đổ trú cho ga",
+    "example_translate": "đổ trấu cho gà",
+    "id": "na_465",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "trù",
+    "aliases": [
+      "trù khôông"
+    ],
+    "meaning": "trầu không",
+    "example": "quảy trù đến nhởi",
+    "example_translate": "mang trầu không đến chơi",
+    "id": "na_466",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "trùa",
+    "aliases": [],
+    "meaning": "chùa",
+    "example": "đi lễ trùa",
+    "example_translate": "đi lễ chùa",
+    "id": "na_467",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "trừa",
+    "aliases": [],
+    "meaning": "chừa",
+    "example": "trừa tận tra",
+    "example_translate": "chừa đến già",
+    "id": "na_468",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "trúm",
+    "aliases": [],
+    "meaning": "dụng cụ bắt lươn",
+    "example": "đặt trúm ngoài rọng",
+    "example_translate": "đặt dụng cụ bắt lươn ngoài ruộng",
+    "id": "na_469",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "trún",
+    "aliases": [],
+    "meaning": "mớm thức ăn cho con",
+    "example": "mệ trún cơm cho bé",
+    "example_translate": "mẹ mớm cơm cho bé",
+    "id": "na_470",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "truông",
+    "aliases": [],
+    "meaning": "cổng trời, cửa eo rừng",
+    "example": "qua truông thì gió mạnh",
+    "example_translate": "qua eo rừng thì gió mạnh",
+    "id": "na_471",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "truốt",
+    "aliases": [],
+    "meaning": "tuốt",
+    "example": "truốt lúa ngoài đồng",
+    "example_translate": "tuốt lúa ngoài đồng",
+    "id": "na_472",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "truột",
+    "aliases": [],
+    "meaning": "tuột",
+    "example": "truột chạc rồi",
+    "example_translate": "tuột dây rồi",
+    "id": "na_473",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "trụp",
+    "aliases": [],
+    "meaning": "chụp",
+    "example": "trụp cái nón lên đầu",
+    "example_translate": "chụp cái nón lên đầu",
+    "id": "na_474",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "tùa",
+    "aliases": [],
+    "meaning": "dồn lại một chỗ",
+    "example": "tùa đồ lại một góc",
+    "example_translate": "dồn đồ lại một góc",
+    "id": "na_475",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "tướu",
+    "aliases": [],
+    "meaning": "con khỉ",
+    "example": "tướu nhảy trên cơn",
+    "example_translate": "con khỉ nhảy trên cây",
+    "id": "na_476",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "vẹ",
+    "aliases": [],
+    "meaning": "vẽ",
+    "example": "khéo vẹ lắm",
+    "example_translate": "khéo vẽ lắm",
+    "id": "na_477",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "vếch",
+    "aliases": [
+      "véch"
+    ],
+    "meaning": "vách",
+    "example": "nhà có vếch tre",
+    "example_translate": "nhà có vách tre",
+    "id": "na_478",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "ven",
+    "aliases": [],
+    "meaning": "cái xẻng",
+    "example": "lấy ven xúc đất",
+    "example_translate": "lấy xẻng xúc đất",
+    "id": "na_479",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "vên",
+    "aliases": [],
+    "meaning": "con vắt",
+    "example": "đi rú bị vên bám",
+    "example_translate": "đi rừng bị vắt bám",
+    "id": "na_480",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "vènh",
+    "aliases": [],
+    "meaning": "vành",
+    "example": "vènh nón bị gãy",
+    "example_translate": "vành nón bị gãy",
+    "id": "na_481",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "vét",
+    "aliases": [],
+    "meaning": "con rận trâu, chó",
+    "example": "tru có vét",
+    "example_translate": "trâu có rận",
+    "id": "na_482",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "voòng",
+    "aliases": [],
+    "meaning": "vòng",
+    "example": "đeo cái voòng tay",
+    "example_translate": "đeo cái vòng tay",
+    "id": "na_483",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "vôống",
+    "aliases": [],
+    "meaning": "vụng",
+    "example": "vôống đẹo khéo chữa",
+    "example_translate": "vụng đẽo khéo chữa",
+    "id": "na_484",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "vụ",
+    "aliases": [],
+    "meaning": "vú",
+    "example": "em bé bú vụ",
+    "example_translate": "em bé bú vú",
+    "id": "na_485",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "vưa",
+    "aliases": [],
+    "meaning": "vừa",
+    "example": "vưa một ménh",
+    "example_translate": "vừa một miếng",
+    "id": "na_486",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "vụng",
+    "aliases": [],
+    "meaning": "vũng",
+    "example": "mưa tạo nhiều vụng nác",
+    "example_translate": "mưa tạo nhiều vũng nước",
+    "id": "na_487",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "xạ",
+    "aliases": [],
+    "meaning": "xã",
+    "example": "hợp tác xạ",
+    "example_translate": "hợp tác xã",
+    "id": "na_488",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "xăm",
+    "aliases": [
+      "mòi"
+    ],
+    "meaning": "suối sâu, khe cạn",
+    "example": "qua ba con xăm",
+    "example_translate": "qua ba con suối sâu",
+    "id": "na_489",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "xán",
+    "aliases": [],
+    "meaning": "ném",
+    "example": "xán đá cảy trốc",
+    "example_translate": "ném đá sưng đầu",
+    "id": "na_490",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "xáp",
+    "aliases": [],
+    "meaning": "gặp mặt",
+    "example": "xáp nhau giữa đêm rằm",
+    "example_translate": "gặp nhau giữa đêm rằm",
+    "id": "na_491",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "xắt",
+    "aliases": [],
+    "meaning": "cắt, thái; giặt tùy ngữ cảnh",
+    "example": "xắt chuối cho tru",
+    "example_translate": "thái chuối cho trâu",
+    "id": "na_492",
+    "source_quality": "community/needs_review",
+    "note": "Từ/cụm này có thể đa nghĩa, nên ưu tiên dịch theo ngữ cảnh câu."
+  },
+  {
+    "keyword": "xoong",
+    "aliases": [],
+    "meaning": "soong, nồi kim loại",
+    "example": "bắc xoong lên bếp",
+    "example_translate": "bắc soong lên bếp",
+    "id": "na_493",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "yêm",
+    "aliases": [],
+    "meaning": "em, chúng em",
+    "example": "nhà yêm ở bên nớ",
+    "example_translate": "nhà em ở bên đó",
+    "id": "na_494",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "trự",
+    "aliases": [
+      "trự tiền"
+    ],
+    "meaning": "đồng tiền; chữ tùy ngữ cảnh",
+    "example": "cho tau một trự",
+    "example_translate": "cho tôi một đồng",
+    "id": "na_495",
+    "source_quality": "community/needs_review",
+    "note": "Từ/cụm này có thể đa nghĩa, nên ưu tiên dịch theo ngữ cảnh câu."
+  },
+  {
+    "keyword": "cu cu",
+    "aliases": [
+      "cù cu",
+      "bồ câu"
+    ],
+    "meaning": "bồ câu",
+    "example": "cù cu là con bồ câu",
+    "example_translate": "cù cu là con bồ câu",
+    "id": "na_496",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "rào",
+    "aliases": [
+      "sông"
+    ],
+    "meaning": "sông",
+    "example": "đi nôốc trên rào",
+    "example_translate": "đi thuyền trên sông",
+    "id": "na_497",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "ngá khu",
+    "aliases": [
+      "ngứa khu"
+    ],
+    "meaning": "ngứa mông",
+    "example": "ngá khu chịu nỏ được",
+    "example_translate": "ngứa mông chịu không được",
+    "id": "na_498",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "rứa hè",
+    "aliases": [
+      "rứa hề"
+    ],
+    "meaning": "thế thôi, vậy thôi",
+    "example": "rứa hè là xong",
+    "example_translate": "thế thôi là xong",
+    "id": "na_499",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "gấu",
+    "aliases": [
+      "gạo"
+    ],
+    "meaning": "gạo",
+    "example": "vo gấu nấu cơm",
+    "example_translate": "vo gạo nấu cơm",
+    "id": "na_500",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "sạu",
+    "aliases": [
+      "ngô",
+      "bắp"
+    ],
+    "meaning": "ngô, bắp",
+    "example": "bại sạu ngoài nương",
+    "example_translate": "bãi ngô ngoài vườn",
+    "id": "na_501",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "ràn tru",
+    "aliases": [
+      "chuồng tru"
+    ],
+    "meaning": "chuồng trâu",
+    "example": "dọn ràn tru",
+    "example_translate": "dọn chuồng trâu",
+    "id": "na_502",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "eng",
+    "aliases": [
+      "anh",
+      "anh nha"
+    ],
+    "meaning": "anh",
+    "example": "eng về ăn cơm",
+    "example_translate": "anh về ăn cơm",
+    "id": "na_503",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "suôn",
+    "aliases": [
+      "thẳng"
+    ],
+    "meaning": "thẳng",
+    "example": "đàng ni suôn",
+    "example_translate": "đường này thẳng",
+    "id": "na_504",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "ngoẹo",
+    "aliases": [
+      "cong"
+    ],
+    "meaning": "cong",
+    "example": "đàng ni ngoẹo",
+    "example_translate": "đường này cong",
+    "id": "na_505",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "trọi trốc",
+    "aliases": [
+      "gõ trốc"
+    ],
+    "meaning": "gõ đầu",
+    "example": "đừng trọi trốc em",
+    "example_translate": "đừng gõ đầu em",
+    "id": "na_506",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "cồi",
+    "aliases": [
+      "lõi"
+    ],
+    "meaning": "lõi ngô, lõi mít",
+    "example": "cồi ngô khô rồi",
+    "example_translate": "lõi ngô khô rồi",
+    "id": "na_507",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "cơn tro",
+    "aliases": [
+      "cây cọ"
+    ],
+    "meaning": "cây cọ",
+    "example": "cơn tro mọc ngoài rú",
+    "example_translate": "cây cọ mọc ngoài rừng",
+    "id": "na_508",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "nác chát",
+    "aliases": [
+      "nước chè xanh",
+      "chè xanh"
+    ],
+    "meaning": "nước chè xanh",
+    "example": "múc cho tui một đọi nác chát",
+    "example_translate": "múc cho tôi một bát nước chè xanh",
+    "id": "na_509",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "lộ chồ",
+    "aliases": [
+      "chỗ rửa bát"
+    ],
+    "meaning": "vũng/nơi rửa bát cạnh nhà",
+    "example": "đổ nác ra lộ chồ",
+    "example_translate": "đổ nước ra chỗ rửa bát",
+    "id": "na_510",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "với chắc",
+    "aliases": [
+      "với nhau"
+    ],
+    "meaning": "với nhau",
+    "example": "hai đứa đi với chắc",
+    "example_translate": "hai đứa đi với nhau",
+    "id": "na_511",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "chiếng",
+    "aliases": [
+      "giếng"
+    ],
+    "meaning": "giếng nước",
+    "example": "múc nác ở chiếng",
+    "example_translate": "múc nước ở giếng",
+    "id": "na_512",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "tịa",
+    "aliases": [
+      "dịa",
+      "đĩa"
+    ],
+    "meaning": "cái đĩa đựng thức ăn",
+    "example": "lấy tịa ra đựng rau",
+    "example_translate": "lấy đĩa ra đựng rau",
+    "id": "na_513",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "cơn rạ",
+    "aliases": [
+      "con rựa",
+      "rựa"
+    ],
+    "meaning": "con rựa",
+    "example": "cầm cơn rạ đi chặt cơn",
+    "example_translate": "cầm con rựa đi chặt cây",
+    "id": "na_514",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "cụp rú",
+    "aliases": [
+      "quả núi",
+      "núi"
+    ],
+    "meaning": "quả núi",
+    "example": "cụp rú tê cao",
+    "example_translate": "quả núi kia cao",
+    "id": "na_515",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "cục đớ",
+    "aliases": [
+      "cục đá",
+      "hòn đá"
+    ],
+    "meaning": "cục đá",
+    "example": "bấp cục đớ",
+    "example_translate": "vấp cục đá",
+    "id": "na_516",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "khi mô",
+    "aliases": [
+      "lúc nào",
+      "bao giờ"
+    ],
+    "meaning": "khi nào, lúc nào",
+    "example": "khi mô mi về",
+    "example_translate": "khi nào mày về",
+    "id": "na_517",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "khi nớ",
+    "aliases": [
+      "lúc đó"
+    ],
+    "meaning": "lúc đó, khi ấy",
+    "example": "khi nớ tau còn nhỏ",
+    "example_translate": "lúc đó tôi còn nhỏ",
+    "id": "na_518",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "vô",
+    "aliases": [
+      "vào"
+    ],
+    "meaning": "vào",
+    "example": "vô nhà đi",
+    "example_translate": "vào nhà đi",
+    "id": "na_519",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "chưởi",
+    "aliases": [
+      "chửi"
+    ],
+    "meaning": "chửi",
+    "example": "đừng chưởi nhau",
+    "example_translate": "đừng chửi nhau",
+    "id": "na_520",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "gưởi",
+    "aliases": [
+      "gửi"
+    ],
+    "meaning": "gửi",
+    "example": "gưởi thư cho tau",
+    "example_translate": "gửi thư cho tôi",
+    "id": "na_521",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "ri nì",
+    "aliases": [
+      "thế này"
+    ],
+    "meaning": "thế này",
+    "example": "mần ri nì mới đúng",
+    "example_translate": "làm thế này mới đúng",
+    "id": "na_522",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "cổ mì",
+    "aliases": [
+      "củ mì",
+      "củ sắn"
+    ],
+    "meaning": "củ sắn",
+    "example": "đào cổ mì ngoài nương",
+    "example_translate": "đào củ sắn ngoài vườn",
+    "id": "na_523",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "cấy cơi",
+    "aliases": [
+      "đĩa trầu"
+    ],
+    "meaning": "đĩa trầu",
+    "example": "đem cấy cơi ra mời khách",
+    "example_translate": "đem đĩa trầu ra mời khách",
+    "id": "na_524",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "bạc trôốc",
+    "aliases": [
+      "bạc đầu"
+    ],
+    "meaning": "bạc đầu",
+    "example": "bọ đã bạc trôốc",
+    "example_translate": "bố đã bạc đầu",
+    "id": "na_525",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "kẹ tra",
+    "aliases": [
+      "người già"
+    ],
+    "meaning": "người già",
+    "example": "kẹ tra trong làng",
+    "example_translate": "người già trong làng",
+    "id": "na_526",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "cu cu cờm",
+    "aliases": [
+      "bồ câu trống"
+    ],
+    "meaning": "bồ câu trống",
+    "example": "cu cu cờm đậu trên mái",
+    "example_translate": "bồ câu trống đậu trên mái",
+    "id": "na_527",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "hườm hườm",
+    "aliases": [
+      "chớm chín"
+    ],
+    "meaning": "chớm chín",
+    "example": "trấy ni mới hườm hườm",
+    "example_translate": "quả này mới chớm chín",
+    "id": "na_528",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "đượng",
+    "aliases": [
+      "bãi"
+    ],
+    "meaning": "bãi",
+    "example": "ra đượng chơi",
+    "example_translate": "ra bãi chơi",
+    "id": "na_529",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "cân hôn",
+    "aliases": [
+      "ba ba"
+    ],
+    "meaning": "con ba ba",
+    "example": "cân hôn bò dưới ao",
+    "example_translate": "con ba ba bò dưới ao",
+    "id": "na_530",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "cá bôống",
+    "aliases": [
+      "cá bống"
+    ],
+    "meaning": "cá bống",
+    "example": "cá bôống kho tiêu",
+    "example_translate": "cá bống kho tiêu",
+    "id": "na_531",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "chủi chà",
+    "aliases": [
+      "chổi lau"
+    ],
+    "meaning": "chổi lau",
+    "example": "lấy chủi chà lau nhà",
+    "example_translate": "lấy chổi lau lau nhà",
+    "id": "na_532",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "vưa vưa",
+    "aliases": [
+      "vừa vừa"
+    ],
+    "meaning": "vừa vừa",
+    "example": "ăn vưa vưa thôi",
+    "example_translate": "ăn vừa vừa thôi",
+    "id": "na_533",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "đâng lưa",
+    "aliases": [
+      "đang còn",
+      "còn lại"
+    ],
+    "meaning": "đang còn, còn lại",
+    "example": "đâng lưa ít nác",
+    "example_translate": "đang còn ít nước",
+    "id": "na_534",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "lắm đều",
+    "aliases": [
+      "buôn chuyện"
+    ],
+    "meaning": "hay buôn chuyện, nhiều chuyện",
+    "example": "hấn lắm đều lắm",
+    "example_translate": "nó hay buôn chuyện lắm",
+    "id": "na_535",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "gin gin",
+    "aliases": [
+      "gần gần"
+    ],
+    "meaning": "gần gần",
+    "example": "nhà hấn ở gin gin đây",
+    "example_translate": "nhà nó ở gần gần đây",
+    "id": "na_536",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "thần lân",
+    "aliases": [
+      "ghẹo đùa quá trớn"
+    ],
+    "meaning": "ghẹo đùa quá trớn",
+    "example": "đừng thần lân nữa",
+    "example_translate": "đừng ghẹo đùa quá trớn nữa",
+    "id": "na_537",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "cột",
+    "aliases": [
+      "buộc"
+    ],
+    "meaning": "buộc",
+    "example": "cột chạc lại",
+    "example_translate": "buộc dây lại",
+    "id": "na_538",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "lọ nghẹ",
+    "aliases": [
+      "nhọ nồi"
+    ],
+    "meaning": "nhọ nồi",
+    "example": "mặt dính lọ nghẹ",
+    "example_translate": "mặt dính nhọ nồi",
+    "id": "na_539",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "kiềng",
+    "aliases": [
+      "rế",
+      "rế nồi"
+    ],
+    "meaning": "rế nồi, đồ kê nồi",
+    "example": "đặt nồi lên kiềng",
+    "example_translate": "đặt nồi lên rế",
+    "id": "na_540",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "niền",
+    "aliases": [
+      "buộc vòng quanh"
+    ],
+    "meaning": "buộc vòng quanh",
+    "example": "niền lại cho chắc",
+    "example_translate": "buộc vòng quanh lại cho chắc",
+    "id": "na_541",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "nê",
+    "aliases": [
+      "đầy hơi"
+    ],
+    "meaning": "đầy hơi khó chịu",
+    "example": "ăn no nê bụng",
+    "example_translate": "ăn no đầy hơi bụng",
+    "id": "na_542",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "nói láp",
+    "aliases": [],
+    "meaning": "nói dối",
+    "example": "mi đừng nói láp",
+    "example_translate": "mày đừng nói dối",
+    "id": "na_543",
+    "standard_aliases": [
+      "nói dối"
+    ],
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "rọng bàu",
+    "aliases": [
+      "đồng trũng"
+    ],
+    "meaning": "đồng trũng",
+    "example": "đi ra rọng bàu",
+    "example_translate": "đi ra đồng trũng",
+    "id": "na_544",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "mần thinh",
+    "aliases": [
+      "im lặng"
+    ],
+    "meaning": "im lặng, không nói",
+    "example": "hấn cứ mần thinh",
+    "example_translate": "nó cứ im lặng",
+    "id": "na_545",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "hà",
+    "aliases": [
+      "đầm ven sông"
+    ],
+    "meaning": "đầm ven sông",
+    "example": "ra hà bắt cá",
+    "example_translate": "ra đầm ven sông bắt cá",
+    "id": "na_546",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "rau hao",
+    "aliases": [
+      "thì là",
+      "rau thơm"
+    ],
+    "meaning": "thì là, rau thơm",
+    "example": "bỏ rau hao vô canh",
+    "example_translate": "bỏ thì là vào canh",
+    "id": "na_547",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "nạm rơm",
+    "aliases": [
+      "nắm rơm"
+    ],
+    "meaning": "nắm rơm nhỏ",
+    "example": "lấy nạm rơm nhóm bếp",
+    "example_translate": "lấy nắm rơm nhóm bếp",
+    "id": "na_548",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "dồm",
+    "aliases": [
+      "chườm"
+    ],
+    "meaning": "chườm cho người bệnh",
+    "example": "dồm cho đỡ đau",
+    "example_translate": "chườm cho đỡ đau",
+    "id": "na_549",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "gộp bầy",
+    "aliases": [
+      "gom bầy"
+    ],
+    "meaning": "gom dồn đàn chung",
+    "example": "gộp bầy vịt lại",
+    "example_translate": "gom đàn vịt lại",
+    "id": "na_550",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "cấy bung",
+    "aliases": [
+      "chảo to"
+    ],
+    "meaning": "chảo to để nấu",
+    "example": "bắc cấy bung lên bếp",
+    "example_translate": "bắc chảo to lên bếp",
+    "id": "na_551",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "đi băng",
+    "aliases": [
+      "đi tắt",
+      "đi ngang"
+    ],
+    "meaning": "đi ngang, đi tắt",
+    "example": "đi băng qua ruộng",
+    "example_translate": "đi tắt qua ruộng",
+    "id": "na_552",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "lăng",
+    "aliases": [
+      "quăng",
+      "quật"
+    ],
+    "meaning": "quăng quật, ném mạnh",
+    "example": "đừng lăng đồ ra sân",
+    "example_translate": "đừng quăng đồ ra sân",
+    "id": "na_553",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "vút goóc cươi",
+    "aliases": [
+      "vứt góc sân"
+    ],
+    "meaning": "vứt ở góc sân",
+    "example": "vút goóc cươi đi",
+    "example_translate": "vứt ở góc sân đi",
+    "id": "na_554",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "hoa",
+    "aliases": [
+      "nhau thai"
+    ],
+    "meaning": "nhau thai sau sinh",
+    "example": "hoa của người đẻ",
+    "example_translate": "nhau thai của người đẻ",
+    "id": "na_555",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "cụ mự",
+    "aliases": [
+      "cậu mợ"
+    ],
+    "meaning": "cậu mợ",
+    "example": "cụ mự sang chơi",
+    "example_translate": "cậu mợ sang chơi",
+    "id": "na_556",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "nít mui",
+    "aliases": [
+      "nẻ môi"
+    ],
+    "meaning": "nẻ môi",
+    "example": "trời lạnh nít mui",
+    "example_translate": "trời lạnh nẻ môi",
+    "id": "na_557",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "tát rọt",
+    "aliases": [
+      "rát ruột",
+      "rát lòng"
+    ],
+    "meaning": "rát ruột/rát lòng",
+    "example": "nghe mà tát rọt",
+    "example_translate": "nghe mà rát ruột",
+    "id": "na_558",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "cấy ki",
+    "aliases": [
+      "rổ không vành"
+    ],
+    "meaning": "rổ không vành nịt",
+    "example": "đựng rau vô cấy ki",
+    "example_translate": "đựng rau vào rổ",
+    "id": "na_559",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "nôống gấm",
+    "aliases": [
+      "cái nia"
+    ],
+    "meaning": "cái nia",
+    "example": "lấy nôống gấm sảy ló",
+    "example_translate": "lấy cái nia sảy lúa",
+    "id": "na_560",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "múng",
+    "aliases": [
+      "thúng nhỏ"
+    ],
+    "meaning": "thúng nhỏ",
+    "example": "đong ló bằng múng",
+    "example_translate": "đong lúa bằng thúng nhỏ",
+    "id": "na_561",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "lơi",
+    "aliases": [
+      "nhả"
+    ],
+    "meaning": "nhả ra",
+    "example": "lơi ra đi",
+    "example_translate": "nhả ra đi",
+    "id": "na_562",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "rớt",
+    "aliases": [
+      "rơi"
+    ],
+    "meaning": "rơi, rụng",
+    "example": "bát rớt xuống đất",
+    "example_translate": "bát rơi xuống đất",
+    "id": "na_563",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "vại vưng",
+    "aliases": [
+      "rải vừng"
+    ],
+    "meaning": "rải hạt vừng",
+    "example": "vại vưng lên bánh",
+    "example_translate": "rải vừng lên bánh",
+    "id": "na_564",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "chập chao",
+    "aliases": [
+      "nghịch nước"
+    ],
+    "meaning": "trẻ con nghịch nước",
+    "example": "đừng chập chao ngoài ao",
+    "example_translate": "đừng nghịch nước ngoài ao",
+    "id": "na_565",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "nao i",
+    "aliases": [
+      "bất ổn",
+      "lo lắng"
+    ],
+    "meaning": "tâm trạng bất ổn, lo lắng",
+    "example": "nghe tin mà nao i rồi",
+    "example_translate": "nghe tin mà bất ổn rồi",
+    "id": "na_566",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "tồi",
+    "aliases": [
+      "nhét chặt"
+    ],
+    "meaning": "nhét vào cho chặt",
+    "example": "tồi thêm rơm vô bao",
+    "example_translate": "nhét thêm rơm vào bao cho chặt",
+    "id": "na_567",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "nục nần",
+    "aliases": [
+      "đau mình mẩy"
+    ],
+    "meaning": "đau khắp mình mẩy",
+    "example": "làm cả ngày nục nần",
+    "example_translate": "làm cả ngày đau mình mẩy",
+    "id": "na_568",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "trôốc dường",
+    "aliases": [
+      "đầu giường"
+    ],
+    "meaning": "đầu giường, chỗ kê gối",
+    "example": "để sách trên trôốc dường",
+    "example_translate": "để sách trên đầu giường",
+    "id": "na_569",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "thu đủ",
+    "aliases": [
+      "đu đủ"
+    ],
+    "meaning": "đu đủ",
+    "example": "trấy thu đủ chín rồi",
+    "example_translate": "quả đu đủ chín rồi",
+    "id": "na_570",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "rau dênh",
+    "aliases": [
+      "rau dền"
+    ],
+    "meaning": "rau dền",
+    "example": "looc rau dênh",
+    "example_translate": "luộc rau dền",
+    "id": "na_571",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "xênh",
+    "aliases": [
+      "vần cơm"
+    ],
+    "meaning": "vần cơm bên lửa",
+    "example": "xênh nồi cơm bên bếp",
+    "example_translate": "vần nồi cơm bên bếp",
+    "id": "na_572",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "dam kềnh",
+    "aliases": [
+      "cua đồng lớn"
+    ],
+    "meaning": "con cua đồng lớn",
+    "example": "bắt được dam kềnh",
+    "example_translate": "bắt được cua đồng lớn",
+    "id": "na_573",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "bàm làm",
+    "aliases": [
+      "xương đầu gối"
+    ],
+    "meaning": "xương đầu gối",
+    "example": "đau bàm làm",
+    "example_translate": "đau xương đầu gối",
+    "id": "na_574",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "nói thàm",
+    "aliases": [
+      "nói bậy"
+    ],
+    "meaning": "nói năng bậy bạ",
+    "example": "đừng nói thàm",
+    "example_translate": "đừng nói bậy",
+    "id": "na_575",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "trao tráo",
+    "aliases": [
+      "chim sáo"
+    ],
+    "meaning": "chim sáo",
+    "example": "trao tráo bay trên cơn",
+    "example_translate": "chim sáo bay trên cây",
+    "id": "na_576",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "ắc sả",
+    "aliases": [
+      "bói cá"
+    ],
+    "meaning": "chim bói cá",
+    "example": "ắc sả đậu bên rào",
+    "example_translate": "chim bói cá đậu bên sông",
+    "id": "na_577",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "đẻ xòn xòn",
+    "aliases": [
+      "sinh dày con"
+    ],
+    "meaning": "sinh con dày",
+    "example": "nhà nớ đẻ xòn xòn",
+    "example_translate": "nhà đó sinh con dày",
+    "id": "na_578",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "cộ cườm",
+    "aliases": [
+      "cổ tay"
+    ],
+    "meaning": "cổ tay",
+    "example": "đau cộ cườm",
+    "example_translate": "đau cổ tay",
+    "id": "na_579",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "óc cay",
+    "aliases": [
+      "ớt cay"
+    ],
+    "meaning": "ớt cay",
+    "example": "óc cay quá",
+    "example_translate": "ớt cay quá",
+    "id": "na_580",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "hột ló",
+    "aliases": [
+      "hạt lúa"
+    ],
+    "meaning": "hạt lúa",
+    "example": "hột ló rơi đầy sân",
+    "example_translate": "hạt lúa rơi đầy sân",
+    "id": "na_581",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "hồi",
+    "aliases": [
+      "chái nhà"
+    ],
+    "meaning": "chái nhà",
+    "example": "để củi ngoài hồi",
+    "example_translate": "để củi ngoài chái nhà",
+    "id": "na_582",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "mật bồi",
+    "aliases": [
+      "mật trào"
+    ],
+    "meaning": "mật trào/chảy ra",
+    "example": "mật bồi khỏi chai",
+    "example_translate": "mật trào khỏi chai",
+    "id": "na_583",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "bộc cửa",
+    "aliases": [
+      "bậc cửa",
+      "gạch cửa"
+    ],
+    "meaning": "bậc/gạch cửa",
+    "example": "ngồi nơi bộc cửa",
+    "example_translate": "ngồi nơi bậc cửa",
+    "id": "na_584",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "cơm hấp mì",
+    "aliases": [
+      "cơm độn sắn"
+    ],
+    "meaning": "cơm độn sắn",
+    "example": "ăn cơm hấp mì",
+    "example_translate": "ăn cơm độn sắn",
+    "id": "na_585",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "gộ vàng tim",
+    "aliases": [
+      "gỗ vàng tâm"
+    ],
+    "meaning": "gỗ vàng tâm",
+    "example": "cái tủ bằng gộ vàng tim",
+    "example_translate": "cái tủ bằng gỗ vàng tâm",
+    "id": "na_586",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "bénh tày",
+    "aliases": [
+      "bánh dầy"
+    ],
+    "meaning": "bánh dầy",
+    "example": "ăn bénh tày",
+    "example_translate": "ăn bánh dầy",
+    "id": "na_587",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "môn tây",
+    "aliases": [
+      "dong riềng"
+    ],
+    "meaning": "dong riềng làm miến",
+    "example": "trồng môn tây",
+    "example_translate": "trồng dong riềng",
+    "id": "na_588",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "tràng độ",
+    "aliases": [
+      "sàng đậu"
+    ],
+    "meaning": "sàng đậu",
+    "example": "tràng độ cho sạch",
+    "example_translate": "sàng đậu cho sạch",
+    "id": "na_589",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "lắc xây",
+    "aliases": [
+      "quay tròn"
+    ],
+    "meaning": "quay tròn",
+    "example": "cái bánh lắc xây",
+    "example_translate": "cái bánh quay tròn",
+    "id": "na_590",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "ò e",
+    "aliases": [
+      "tim đọt non"
+    ],
+    "meaning": "phần tim/đọt non trong bao lá",
+    "example": "ò e còn non",
+    "example_translate": "đọt non còn non",
+    "id": "na_591",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "chí trấn",
+    "aliases": [
+      "chấy rận",
+      "chí",
+      "trấn"
+    ],
+    "meaning": "chấy rận",
+    "example": "chí trấn nhiều quá",
+    "example_translate": "chấy rận nhiều quá",
+    "id": "na_592",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "mòng mòng",
+    "aliases": [
+      "ruồi trâu"
+    ],
+    "meaning": "ruồi trâu",
+    "example": "mòng mòng cắn tru",
+    "example_translate": "ruồi trâu cắn trâu",
+    "id": "na_593",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "khe",
+    "aliases": [
+      "suối"
+    ],
+    "meaning": "suối",
+    "example": "xuống khe lấy nác",
+    "example_translate": "xuống suối lấy nước",
+    "id": "na_594",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "trộ mưa",
+    "aliases": [
+      "trận mưa"
+    ],
+    "meaning": "trận mưa ào qua",
+    "example": "trộ mưa vừa qua",
+    "example_translate": "trận mưa vừa qua",
+    "id": "na_595",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "sên",
+    "aliases": [
+      "vắt"
+    ],
+    "meaning": "con vắt",
+    "example": "đi rú bị sên cắn",
+    "example_translate": "đi rừng bị vắt cắn",
+    "id": "na_596",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "rò",
+    "aliases": [
+      "rùa"
+    ],
+    "meaning": "con rùa",
+    "example": "con rò bò chậm",
+    "example_translate": "con rùa bò chậm",
+    "id": "na_597",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "nây",
+    "aliases": [
+      "nai"
+    ],
+    "meaning": "con nai",
+    "example": "con nây chạy trong rú",
+    "example_translate": "con nai chạy trong rừng",
+    "id": "na_598",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "chạc mụi",
+    "aliases": [
+      "dây mũi"
+    ],
+    "meaning": "dây mũi trâu bò",
+    "example": "cầm chạc mụi dắt tru",
+    "example_translate": "cầm dây mũi dắt trâu",
+    "id": "na_599",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "lăm nhăm",
+    "aliases": [
+      "cằn nhằn"
+    ],
+    "meaning": "cằn nhằn, càu nhàu",
+    "example": "đừng lăm nhăm nữa",
+    "example_translate": "đừng cằn nhằn nữa",
+    "id": "na_600",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "cít",
+    "aliases": [
+      "phân"
+    ],
+    "meaning": "phân, cứt",
+    "example": "cít đầy sân",
+    "example_translate": "phân đầy sân",
+    "id": "na_601",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "thòi boi",
+    "aliases": [
+      "nhiều chuyện"
+    ],
+    "meaning": "nhiều chuyện",
+    "example": "mụ nớ thòi boi",
+    "example_translate": "bà đó nhiều chuyện",
+    "id": "na_602",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "địt",
+    "aliases": [
+      "xì hơi"
+    ],
+    "meaning": "xì hơi",
+    "example": "đừng địt nơi đông người",
+    "example_translate": "đừng xì hơi nơi đông người",
+    "id": "na_603",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "phò",
+    "aliases": [
+      "phỉnh nịnh"
+    ],
+    "meaning": "phỉnh nịnh",
+    "example": "hấn hay phò người khác",
+    "example_translate": "nó hay phỉnh nịnh người khác",
+    "id": "na_604",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "chẹn đàng",
+    "aliases": [
+      "chặn đường"
+    ],
+    "meaning": "chặn đường, bí thế",
+    "example": "bị chẹn đàng",
+    "example_translate": "bị chặn đường",
+    "id": "na_605",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "nít nong",
+    "aliases": [
+      "nứt bụng"
+    ],
+    "meaning": "nứt bụng, no căng",
+    "example": "ăn no nít nong",
+    "example_translate": "ăn no căng bụng",
+    "id": "na_606",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "con tro",
+    "aliases": [
+      "con so"
+    ],
+    "meaning": "con so",
+    "example": "chị nớ sinh con tro",
+    "example_translate": "chị đó sinh con so",
+    "id": "na_607",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "con rạ",
+    "aliases": [
+      "con dạ"
+    ],
+    "meaning": "con dạ",
+    "example": "đứa ni là con rạ",
+    "example_translate": "đứa này là con dạ",
+    "id": "na_608",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "ướm điều",
+    "aliases": [
+      "yếm đỏ"
+    ],
+    "meaning": "yếm đỏ",
+    "example": "mặc ướm điều",
+    "example_translate": "mặc yếm đỏ",
+    "id": "na_609",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "dàng",
+    "aliases": [
+      "buộc bằng dây"
+    ],
+    "meaning": "buộc lại bằng dây",
+    "example": "dàng bó củi lại",
+    "example_translate": "buộc bó củi lại",
+    "id": "na_610",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "cháo chè",
+    "aliases": [
+      "nếp nấu mật mía"
+    ],
+    "meaning": "món nếp nấu mật mía",
+    "example": "ăn cháo chè",
+    "example_translate": "ăn nếp nấu mật mía",
+    "id": "na_611",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "chít",
+    "aliases": [
+      "ngắt"
+    ],
+    "meaning": "ngắt ngắn, tách rời",
+    "example": "chít mấy ngọn rau",
+    "example_translate": "ngắt mấy ngọn rau",
+    "id": "na_612",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "dần",
+    "aliases": [
+      "sàng cám"
+    ],
+    "meaning": "tách cám khỏi gạo",
+    "example": "dần gạo cho sạch",
+    "example_translate": "tách cám khỏi gạo cho sạch",
+    "id": "na_613",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "nhèm nhèm",
+    "aliases": [
+      "nhử đồ ăn"
+    ],
+    "meaning": "đem đồ ăn ra nhử",
+    "example": "đừng nhèm nhèm trẻ con",
+    "example_translate": "đừng lấy đồ ăn nhử trẻ con",
+    "id": "na_614",
+    "source_quality": "community/needs_review"
+  },
+  {
+    "keyword": "troèm dứa",
+    "aliases": [],
+    "meaning": "nhiều, quá mức, đầy ra",
+    "example": "anh thương em troèm dứa luôn mà",
+    "example_translate": "anh thương em nhiều như vậy mà",
+    "id": "na_615",
+    "source_quality": "community/needs_review",
+    "note": "Không nên mặc định dịch là “nhiều”; cần kiểm tra ngữ cảnh vì mục này dễ gây sai nghĩa."
+  },
+  {
+    "keyword": "cá tràu cá trắm",
+    "aliases": [],
+    "meaning": "xấu xí, thô kệch, quê mùa",
+    "example": "cái thằng nớ cá tràu cá trắm như rứa",
+    "example_translate": "cái thằng đó xấu xí như thế",
+    "id": "na_616",
+    "source_quality": "community/needs_review",
+    "note": "Không nên mặc định dịch là “xấu”; nếu xuất hiện trong câu chê người thì để Qwen suy theo ngữ cảnh."
+  },
+  {
+    "keyword": "rứa là",
+    "aliases": [],
+    "meaning": "vậy là",
+    "example": "rứa là em nỏ đồng ý",
+    "example_translate": "vậy là em không đồng ý",
+    "source_quality": "user_verified",
+    "id": "na_617"
+  },
+  {
+    "keyword": "cụ thể",
+    "aliases": [],
+    "meaning": "có thể",
+    "example": "anh cụ thể biết lý do ung",
+    "example_translate": "anh có thể biết lý do không",
+    "source_quality": "user_verified",
+    "id": "na_618"
+  },
+  {
+    "keyword": "chạy thục mạ",
+    "aliases": [],
+    "meaning": "chạy thục mạng",
+    "example": "chạy thục mạ đi",
+    "example_translate": "chạy thục mạng đi",
+    "source_quality": "user_verified",
+    "id": "na_619",
+    "note": "Đây là thành ngữ, không nên dịch literal."
+  },
+  {
+    "keyword": "nác",
+    "aliases": [
+      "nạc"
+    ],
+    "meaning": "nước",
+    "example": "Bọn con nít đi ra ngoài sông vọt nác tợn lắm.",
+    "example_translate": "bọn con nít đi ra ngoài sông nghịch nước tợn lắm.",
+    "id": "na_620",
+    "source_quality": "community/needs_review"
+  }
+]
